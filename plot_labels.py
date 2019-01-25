@@ -1,3 +1,33 @@
+import numpy as np
+import matplotlib.pyplot as plt
+def plotter(var_list, means2, stds2, true_names, sl, color):
+    vars = var_list
+    means = []
+    stds = []
+    super_labels = []
+    for var in vars:
+        means.append(float(means2[var]))
+        stds.append(float(stds2[var]))
+        if sl == "y":
+            super_labels.append(true_names[var])
+    #print(means)
+    #print(stds)
+    ind = np.arange(len(vars))
+    width = 0.5
+
+    fig, ax = plt.subplots()
+    rects = ax.bar(ind, means, width, yerr=stds, color=color, label='Vars')
+
+    ax.set_ylabel("Single Input Activation Score (Likely Cost Correlate)")
+    ax.set_title("NN Computed Variable Values")
+    ax.set_xticks(ind)
+    if sl == "y":
+        ax.set_xticklabels(super_labels)
+    else:
+        ax.set_xticklabels(vars)
+    #ax.legend()
+    plt.show()
+
 def var_true_names():
     true_var_dict = {
         "TB":"Building Tag",

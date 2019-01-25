@@ -83,7 +83,7 @@ def single_run():
         #print(eq_write)
 
     # Set up simple neural network architecture with Keras
-    t_epochs = 10
+    t_epochs = 200
     T_DATA = []
     T_LBLS = []
     for line in processed_equations:
@@ -133,7 +133,7 @@ def var_plotter(var_list, compute_dict, true_names, sl):
     # Make some plots with the results
     # First, a plot of all var values, with labels
     ind = np.arange(len(vars))
-    width = 0.35
+    width = 0.5
 
     fig, ax = plt.subplots()
     rects = ax.bar(ind, means, width, yerr=stds, color='SkyBlue', label='Vars')
@@ -145,13 +145,12 @@ def var_plotter(var_list, compute_dict, true_names, sl):
         ax.set_xticklabels(super_labels)
     else:
         ax.set_xticklabels(vars)
-    ax.legend()
-
+    #ax.legend()
     plt.show()
 
 
 def main():
-    num_runs = 2
+    num_runs = 100
     vars = get_vars()
     # Do the first run to get a baseline dictionary
     compute_dict = {}
@@ -167,13 +166,13 @@ def main():
         for var in vars:
             mean = np.mean(compute_dict[var])
             std = np.std(compute_dict[var])
-            f.write(var,": ",mean," +- ",std,"\n")
+            f.write(var + ": " + str(mean) + " +- " + str(std) + "\n")
 
     # Get a dictionary with variable name to actual name mapppings
     true_names = var_true_names()
     # Plot list for personal resource values
     plot_list = ["REM","RES","RET","REP","REE","REH","REA","REMI","REF"]
-    var_plotter(plot_list,compute_dict,true_names,"n")
+    var_plotter(plot_list,compute_dict,true_names,"y")
 
 
 if __name__ == "__main__":
