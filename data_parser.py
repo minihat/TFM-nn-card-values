@@ -57,6 +57,11 @@ def vectorize_eq(sing_eq,var_inds):
         else:
             val = 1
             tag_name = tag
+
+        #Below line is edited to allow negative signs in equations
+        if "-" in tag_name:
+            tag_name = tag_name[1:]
+
         # Find correct index for this tag, and place val there
         indice = var_inds[tag_name.upper()]
         eq_write[indice] = val
@@ -119,7 +124,7 @@ def single_run():
         single_dict[var] = prediction[0][0]
 
     print(single_dict)
-    return single_dict
+    return single_dict, train_loss
 
 def var_plotter(var_list, compute_dict, true_names, sl):
     vars = var_list
@@ -157,7 +162,9 @@ def main():
     for var in vars:
         compute_dict[var] = []
     for i in range(num_runs):
-        single_dict = single_run()
+        loss = 250
+        while loss >= 10:
+            single_dict, loss = single_run()
         for var in vars:
             compute_dict[var].append(single_dict[var])
 
