@@ -4,7 +4,7 @@ from plot_labels import *
 
 # Color options: SkyBlue, DarkSalmon, RoyalBlue, DarkViolet, Tomato, IndianRed
 #https://matplotlib.org/examples/color/named_colors.html
-color = "Yellow"
+color = "RoyalBlue"
 
 #plot_list = ["REM","RES","RET","REP","REE","REH","REA","REMI","REF"] # Resources
 #plot_list = ["TB","TSP","TPL","TM","TA","TPO","TJ","TEA","TC","TEV","TV","TW"] # Tags
@@ -17,7 +17,7 @@ color = "Yellow"
 #plot_list = ["PO","GTR"]
 #plot_list = ["PET","INS","WRM","DCP","RBW","SFL"] # which form of life is best?
 plot_list = ["CD","CDPT","INV"] # card draw actions
-with open("Test_log_1.txt") as f:
+with open("Test_log_final.txt") as f:
     content = f.readlines()
 
 vars = []
