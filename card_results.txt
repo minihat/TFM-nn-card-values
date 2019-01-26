@@ -1,337 +1,337 @@
-Dawn City Est: 26.61 Actual: 15 How Good: 11.61
-freyja biodomes (microbes) Est: 23.92 Actual: 14 How Good: 9.92
-Deimos Down Est: 40.73 Actual: 31 How Good: 9.73
-Farming Est: 25.1 Actual: 16 How Good: 9.1
-Atmoscoop (Heat) Est: 30.2 Actual: 22 How Good: 8.2
-Red Spot Observatory Est: 25.14 Actual: 17 How Good: 8.14
-Mass Converter Est: 15.6 Actual: 8 How Good: 7.6
-Advanced Ecosystems Est: 18.3 Actual: 11 How Good: 7.3
-freyja biodomes (animals) Est: 21.11 Actual: 14 How Good: 7.11
-Kelp Farming Est: 24.02 Actual: 17 How Good: 7.02
-Big Asteroid Est: 33.92 Actual: 27 How Good: 6.92
-Atmoscoop (venus) Est: 28.71 Actual: 22 How Good: 6.71
-Large Convoy (Plants) Est: 42.6 Actual: 36 How Good: 6.6
-Space Elevator Est: 33.14 Actual: 27 How Good: 6.14
-Earth Elevator Est: 48.78 Actual: 43 How Good: 5.78
-giant Ice Asteroid Est: 41.55 Actual: 36 How Good: 5.55
-Large Convoy (Animals) Est: 41.55 Actual: 36 How Good: 5.55
-Imorted GHG Est: 12.31 Actual: 7 How Good: 5.31
-Luna Metropolis Est: 26.15 Actual: 21 How Good: 5.15
-Import of Advanced GHG Est: 14.1 Actual: 9 How Good: 5.1
-Imported Hydrogen (Plant Choice) Est: 21.04 Actual: 16 How Good: 5.04
-IO Sulphur Research (3 card) Est: 21.84 Actual: 17 How Good: 4.84
-Sky Docks Est: 22.79 Actual: 18 How Good: 4.79
-Imported Nitrogen Est: 27.56 Actual: 23 How Good: 4.56
-Mining Expedition Est: 16.49 Actual: 12 How Good: 4.49
-Atalanta Planitia Lab Est: 14.34 Actual: 10 How Good: 4.34
-antigrav Technology Est: 18.22 Actual: 14 How Good: 4.22
-Nitrogen from titan Est: 28.96 Actual: 25 How Good: 3.96
-Asteroid Est: 17.93 Actual: 14 How Good: 3.93
-Tech Demo Est: 8.9 Actual: 5 How Good: 3.9
-Solar Probe Est: 12.87 Actual: 9 How Good: 3.87
-Nitrogen Rich Asteroid(with tags) Est: 34.27 Actual: 31 How Good: 3.27
-Imported Hydrogen (Animal Choice) Est: 19.22 Actual: 16 How Good: 3.22
-Space hotels Est: 15.12 Actual: 12 How Good: 3.12
-Vesta Shipyard Est: 18.11 Actual: 15 How Good: 3.11
-Trees Est: 16.1 Actual: 13 How Good: 3.1
-Colonizer Training Camp Est: 11.04 Actual: 8 How Good: 3.04
-solar Wind Power Est: 14.01 Actual: 11 How Good: 3.01
-Ecology Research Est: 23.96 Actual: 21 How Good: 2.96
-Interstellar Colony Ship Est: 26.91 Actual: 24 How Good: 2.91
-Phobos Space Haven Est: 27.89 Actual: 25 How Good: 2.89
-Luna Governor Est: 6.73 Actual: 4 How Good: 2.73
-Methane from titan Est: 30.54 Actual: 28 How Good: 2.54
-Lake Mariners Est: 20.32 Actual: 18 How Good: 2.32
-Natural Reserve Est: 11.3 Actual: 9 How Good: 2.3
-EOS Chasma National Park Est: 18.23 Actual: 16 How Good: 2.23
-Open City Est: 25.22 Actual: 23 How Good: 2.22
-Virus(Plants) Est: 3.09 Actual: 1 How Good: 2.09
-Ganymede Colony Est: 22.08 Actual: 20 How Good: 2.08
-Venusian plants (microbe) Est: 15.06 Actual: 13 How Good: 2.06
-GHG import from venus Est: 25.02 Actual: 23 How Good: 2.02
-sponsored academies Est: 11.0 Actual: 9 How Good: 2.0
-Impactor Swarm Est: 12.99 Actual: 11 How Good: 1.99
-Titan Shuttles Est: 24.95 Actual: 23 How Good: 1.95
-Trans Neptune Probe Est: 7.89 Actual: 6 How Good: 1.89
-Lagrange Observatory Est: 10.73 Actual: 9 How Good: 1.73
-Callisto Penal Mines Est: 25.43 Actual: 24 How Good: 1.43
-Tundra Farming Est: 16.87 Actual: 16 How Good: 0.87
-Aerobraked Ammonia Asteroid Est: 26.85 Actual: 26 How Good: 0.85
-terraforming contract Est: 8.83 Actual: 8 How Good: 0.83
-Venusian plants (animal) Est: 13.66 Actual: 13 How Good: 0.66
-Deuterium export Est: 11.65 Actual: 11 How Good: 0.65
-Nitrite Reducing Bacteria Est: 11.64 Actual: 11 How Good: 0.64
-Asteroid Mining Est: 30.57 Actual: 30 How Good: 0.57
-Solar Reflectors Est: 23.55 Actual: 23 How Good: 0.55
-Lunar Exports (money) Est: 19.52 Actual: 19 How Good: 0.52
-Noctis Farming Est: 10.49 Actual: 10 How Good: 0.49
-Miranda Resort Est: 12.33 Actual: 12 How Good: 0.33
-Venus governor Est: 4.21 Actual: 4 How Good: 0.21
-Urbanized Area Est: 10.18 Actual: 10 How Good: 0.18
-Venus Waystation Est: 9.0 Actual: 9 How Good: 0.0
-GHG Factories Est: 10.98 Actual: 11 How Good: -0.02
-Titan floating launch pad Est: 17.97 Actual: 18 How Good: -0.03
-orbital reflectors Est: 25.91 Actual: 26 How Good: -0.09
-Carbonate Processing Est: 5.9 Actual: 6 How Good: -0.1
-Towing a Comet Est: 22.87 Actual: 23 How Good: -0.13
-Mohole Area Est: 19.81 Actual: 20 How Good: -0.19
-Corona Extractor Est: 9.76 Actual: 10 How Good: -0.24
-Floater Prototypes Est: 1.68 Actual: 2 How Good: -0.32
-Interplanetary Colony ship Est: 11.59 Actual: 12 How Good: -0.41
-Research Est: 10.57 Actual: 11 How Good: -0.43
-Olympus Conference Est: 9.55 Actual: 10 How Good: -0.45
-maxwell base Est: 17.46 Actual: 18 How Good: -0.54
-comet for venus Est: 10.44 Actual: 11 How Good: -0.56
-Comet Est: 20.42 Actual: 21 How Good: -0.58
-sister planet support Est: 6.42 Actual: 7 How Good: -0.58
-Jupitor Floating Station Est: 8.42 Actual: 9 How Good: -0.58
-Tropical Resort Est: 12.29 Actual: 13 How Good: -0.71
-Mangrove Est: 11.28 Actual: 12 How Good: -0.72
-Electro Catapault (steel) Est: 16.23 Actual: 17 How Good: -0.77
-Pets Est: 9.2 Actual: 10 How Good: -0.8
-IO Sulphur Research (1 card) Est: 16.17 Actual: 17 How Good: -0.83
-Gene Repair Est: 11.05 Actual: 12 How Good: -0.95
-Domed Crater Est: 22.92 Actual: 24 How Good: -1.08
-Commercial District Est: 14.78 Actual: 16 How Good: -1.22
-soletta Est: 33.72 Actual: 35 How Good: -1.28
-immigration shuttles Est: 29.65 Actual: 31 How Good: -1.35
-Titan air scrapping Est: 19.57 Actual: 21 How Good: -1.43
-venus soils Est: 18.54 Actual: 20 How Good: -1.46
-Small Asteroid Est: 8.48 Actual: 10 How Good: -1.52
-Space Mirrors Est: 1.44 Actual: 3 How Good: -1.56
-Electro Catapault (plant) Est: 15.4 Actual: 17 How Good: -1.6
-Research Colony Est: 18.19 Actual: 20 How Good: -1.81
-Asteroid Mining Consortium Est: 11.18 Actual: 13 How Good: -1.82
-Mining Rights (Titanium) Est: 7.07 Actual: 9 How Good: -1.93
-Warp Drive Est: 11.99 Actual: 14 How Good: -2.01
-Mining Area (Titanium) Est: 1.93 Actual: 4 How Good: -2.07
-Imported Hydrogen (Microbe Choice) Est: 13.91 Actual: 16 How Good: -2.09
-Air-Scrapping Expedition Est: 10.91 Actual: 13 How Good: -2.09
-Quantum Extractor Est: 10.86 Actual: 13 How Good: -2.14
-Beam from a thorium asteroid Est: 29.82 Actual: 32 How Good: -2.18
-Shuttles Est: 7.66 Actual: 10 How Good: -2.34
-corroder suits (floater) Est: 5.65 Actual: 8 How Good: -2.35
-Nuclear Zone Est: 7.45 Actual: 10 How Good: -2.55
-Aerial Mappers Est: 8.44 Actual: 11 How Good: -2.56
-Hydrogen to venus Est: 8.43 Actual: 11 How Good: -2.57
-Small Animals Est: 2.96 Actual: 6 How Good: -3.04
-Terraforming Ganymede Est: 29.87 Actual: 33 How Good: -3.13
-IO Mining Industries Est: 37.8 Actual: 41 How Good: -3.2
-Research Outpost Est: 14.78 Actual: 18 How Good: -3.22
-Virus(Animals) Est: -2.23 Actual: 1 How Good: -3.23
-Market Manipulation Est: -2.23 Actual: 1 How Good: -3.23
-Mars University Est: 4.76 Actual: 8 How Good: -3.24
-Rim Freighters Est: 0.65 Actual: 4 How Good: -3.35
-lava flows Est: 14.62 Actual: 18 How Good: -3.38
-Food Factory Est: 8.62 Actual: 12 How Good: -3.38
-Sponsors Est: 2.54 Actual: 6 How Good: -3.46
-local shading Est: 0.44 Actual: 4 How Good: -3.56
-Windmills Est: 2.44 Actual: 6 How Good: -3.56
-Ice Cap Melting Est: 1.44 Actual: 5 How Good: -3.56
-GHG Producing Bacteria Est: 4.42 Actual: 8 How Good: -3.58
-Convoy from europa Est: 11.42 Actual: 15 How Good: -3.58
-Mineral Deposit Est: 1.4 Actual: 5 How Good: -3.6
-Ishtar mining Est: 1.39 Actual: 5 How Good: -3.61
-Water Import From Europa Est: 21.38 Actual: 25 How Good: -3.62
-spin inducing asteroid Est: 12.35 Actual: 16 How Good: -3.65
-Hired Raiders (steel) Est: -2.7 Actual: 1 How Good: -3.7
-local heat trapping (plants) Est: -2.72 Actual: 1 How Good: -3.72
-Bushes Est: 6.27 Actual: 10 How Good: -3.73
-corroder suits (animal) Est: 4.25 Actual: 8 How Good: -3.75
-Space Station Est: 6.14 Actual: 10 How Good: -3.86
-venusian insects Est: 1.06 Actual: 5 How Good: -3.94
-Lightning Harvest Est: 4.03 Actual: 8 How Good: -3.97
-Galilean Waystation Est: 10.96 Actual: 15 How Good: -4.04
-corroder suits (microbe) Est: 3.95 Actual: 8 How Good: -4.05
-Acquired Company Est: 5.88 Actual: 10 How Good: -4.12
-Giant Solar Shade Est: 22.87 Actual: 27 How Good: -4.13
-Pioneer settlement Est: 8.84 Actual: 13 How Good: -4.16
-Fish Est: 4.72 Actual: 9 How Good: -4.28
-radchem factory Est: 3.69 Actual: 8 How Good: -4.31
-Fueled generators Est: -3.35 Actual: 1 How Good: -4.35
-Medical Lab Est: 8.63 Actual: 13 How Good: -4.37
-Sub zero salt fish Est: 0.59 Actual: 5 How Good: -4.41
-Fuel Factory Est: 1.59 Actual: 6 How Good: -4.41
-Noctis City Est: 13.53 Actual: 18 How Good: -4.47
-Invention Contest Est: -2.5 Actual: 2 How Good: -4.5
-Airliners Est: 6.35 Actual: 11 How Good: -4.65
-Power Plant Est: -0.69 Actual: 4 How Good: -4.69
-Space Port Est: 17.29 Actual: 22 How Good: -4.71
-Heather Est: 1.24 Actual: 6 How Good: -4.76
-lava tube settlement Est: 10.18 Actual: 15 How Good: -4.82
-Earth Office Est: -3.93 Actual: 1 How Good: -4.93
-Cupola City Est: 11.06 Actual: 16 How Good: -4.94
-Penguins Est: 2.05 Actual: 7 How Good: -4.95
-extremophiles Est: -2.05 Actual: 3 How Good: -5.05
-stratopolis Est: 16.94 Actual: 22 How Good: -5.06
-Psychrophiles Est: -3.12 Actual: 2 How Good: -5.12
-Ice Asteroid Est: 17.87 Actual: 23 How Good: -5.13
-Solar Power Est: 5.81 Actual: 11 How Good: -5.19
-Dust Seals Est: -3.22 Actual: 2 How Good: -5.22
-Forced Precipitation Est: 2.76 Actual: 8 How Good: -5.24
-Business Contacts Est: 1.73 Actual: 7 How Good: -5.27
-sulphur exports Est: 15.7 Actual: 21 How Good: -5.3
-Spinoff Department Est: 4.68 Actual: 10 How Good: -5.32
-Molecular Printing Est: 5.66 Actual: 11 How Good: -5.34
-sulphur eating bacteria Est: 0.65 Actual: 6 How Good: -5.35
-Special Design Est: -1.35 Actual: 4 How Good: -5.35
-SF Memorial Est: 1.59 Actual: 7 How Good: -5.41
-martian survey Est: 3.49 Actual: 9 How Good: -5.51
-Strip Mine Est: 19.48 Actual: 25 How Good: -5.52
-water to venus Est: 6.41 Actual: 12 How Good: -5.59
-CEOS Favorite Project Est: -4.66 Actual: 1 How Good: -5.66
-Breathing Filters Est: 5.3 Actual: 11 How Good: -5.7
-Adaptation technology Est: 6.3 Actual: 12 How Good: -5.7
-Wave Power Est: 2.2 Actual: 8 How Good: -5.8
-thermophiles Est: 3.18 Actual: 9 How Good: -5.82
-Sabotage (Titanium) Est: -4.85 Actual: 1 How Good: -5.85
-Tardigrades Est: -1.87 Actual: 4 How Good: -5.87
-minority Refuge Est: -0.89 Actual: 5 How Good: -5.89
-Black Polar Dust Est: 9.05 Actual: 15 How Good: -5.95
-Sabotage (Steel) Est: -5.0 Actual: 1 How Good: -6.0
-Physics Complex Est: 6.0 Actual: 12 How Good: -6.0
-Ants Est: 2.81 Actual: 9 How Good: -6.19
-Martian Zoo Est: 5.76 Actual: 12 How Good: -6.24
-Lunar Beam Est: 6.74 Actual: 13 How Good: -6.26
-Power Infrastructure Est: -2.28 Actual: 4 How Good: -6.28
-Optimal Aerobraking Est: 0.65 Actual: 7 How Good: -6.35
-Rover Construction Est: 1.64 Actual: 8 How Good: -6.36
-netralizer factory Est: 0.6 Actual: 7 How Good: -6.4
-Heavy Taxation Est: -3.41 Actual: 3 How Good: -6.41
-titanium mine Est: 0.54 Actual: 7 How Good: -6.46
-Sabotage (money) Est: -5.49 Actual: 1 How Good: -6.49
-Quantum Communications Est: 1.48 Actual: 8 How Good: -6.52
-Symbiotic Fungus Est: -2.53 Actual: 4 How Good: -6.53
-Algae Est: 3.47 Actual: 10 How Good: -6.53
-Extractor balloons Est: 14.46 Actual: 21 How Good: -6.54
-Cryo Sleep Est: 3.46 Actual: 10 How Good: -6.54
-Livestock Est: 6.41 Actual: 13 How Good: -6.59
-Magnetic Field Dome Est: -1.6 Actual: 5 How Good: -6.6
-Mining Colony Est: 13.39 Actual: 20 How Good: -6.61
-jet stream microscrappers Est: 5.37 Actual: 12 How Good: -6.63
-Micro mills Est: -3.72 Actual: 3 How Good: -6.72
-Industrial Center Est: -2.76 Actual: 4 How Good: -6.76
-Greenhouses Est: -0.78 Actual: 6 How Good: -6.78
-Mining Rights (Steel) Est: 2.17 Actual: 9 How Good: -6.83
-Grass Est: 4.09 Actual: 11 How Good: -6.91
-Mining Area (steel) Est: -2.97 Actual: 4 How Good: -6.97
-Birds Est: 2.97 Actual: 10 How Good: -7.03
-Hired Raiders (Money) Est: -6.04 Actual: 1 How Good: -7.04
-Deep Well Heating Est: 5.95 Actual: 13 How Good: -7.05
-Investment Loan Est: -4.07 Actual: 3 How Good: -7.07
-Land Claim Est: -6.12 Actual: 1 How Good: -7.12
-Venusian animals Est: 7.87 Actual: 15 How Good: -7.13
-Regolith Eaters Est: 5.87 Actual: 13 How Good: -7.13
-Biomass Combustors Est: -3.16 Actual: 4 How Good: -7.16
-Dirigibles Est: 3.79 Actual: 11 How Good: -7.21
-Viral Enhancers Est: 1.78 Actual: 9 How Good: -7.22
-Trading Colony Est: 10.78 Actual: 18 How Good: -7.22
-Giant Space Mirror Est: 9.78 Actual: 17 How Good: -7.22
-Nitrogen Rich Asteroid(no tags) Est: 23.72 Actual: 31 How Good: -7.28
-Floater Technology Est: -0.29 Actual: 7 How Good: -7.29
-Ecological Zone Est: 4.66 Actual: 12 How Good: -7.34
-Sattelites Est: 2.61 Actual: 10 How Good: -7.39
-Media Group Est: -1.45 Actual: 6 How Good: -7.45
-Permafrost Extraction Est: 0.49 Actual: 8 How Good: -7.51
-Arctic Algae Est: 4.47 Actual: 12 How Good: -7.53
-Bribed Committee Est: -0.64 Actual: 7 How Good: -7.64
-Radsuits Est: -1.65 Actual: 6 How Good: -7.65
-Air Raid Est: -7.66 Actual: 0 How Good: -7.66
-Atmo Collectors Est: 7.31 Actual: 15 How Good: -7.69
-Toll Station Est: 4.3 Actual: 12 How Good: -7.7
-Security Fleet Est: 4.28 Actual: 12 How Good: -7.72
-Search for Life Est: -4.8 Actual: 3 How Good: -7.8
-rotator Impacts Est: -1.85 Actual: 6 How Good: -7.85
-Fusion Power Est: 6.12 Actual: 14 How Good: -7.88
-Ice Moon Colony Est: 15.09 Actual: 23 How Good: -7.91
-Archaebacteria Est: -1.95 Actual: 6 How Good: -7.95
-Peroxide Power Est: -1.05 Actual: 7 How Good: -8.05
-stratospheric birds Est: 3.9 Actual: 12 How Good: -8.1
-local heat trapping (animals) Est: -7.16 Actual: 1 How Good: -8.16
-Media Archives Est: -0.17 Actual: 8 How Good: -8.17
-Cartel Est: -0.21 Actual: 8 How Good: -8.21
-Capital Est: 17.78 Actual: 26 How Good: -8.22
-Power Supply Consortium Est: -3.3 Actual: 5 How Good: -8.3
-Great Dam Est: 3.69 Actual: 12 How Good: -8.31
-Mine Est: -4.36 Actual: 4 How Good: -8.36
-Heat Trappers Est: -2.44 Actual: 6 How Good: -8.44
-Moss Est: -4.5 Actual: 4 How Good: -8.5
-house printing Est: 1.45 Actual: 10 How Good: -8.55
-Release of Inert Gas Est: 5.38 Actual: 14 How Good: -8.62
-Refugee camps Est: 1.32 Actual: 10 How Good: -8.68
-Productive Outpost Est: -8.68 Actual: 0 How Good: -8.68
-Geothermal Power Est: 2.29 Actual: 11 How Good: -8.71
-business Network Est: -4.72 Actual: 4 How Good: -8.72
-Aerosport tournament Est: -1.79 Actual: 7 How Good: -8.79
-Lunar Mining Est: 2.2 Actual: 11 How Good: -8.8
-Protected Valley Est: 14.18 Actual: 23 How Good: -8.82
-Standard Technology Est: -2.83 Actual: 6 How Good: -8.83
-Herbivores Est: 3.13 Actual: 12 How Good: -8.87
-Community Services Est: 4.02 Actual: 13 How Good: -8.98
-restricted area Est: 2.0 Actual: 11 How Good: -9.0
-Soil Factory Est: -0.02 Actual: 9 How Good: -9.02
-Corporate Stronghold Est: 1.91 Actual: 11 How Good: -9.09
-Venus Magnetizer Est: -2.14 Actual: 7 How Good: -9.14
-Lichen Est: -2.14 Actual: 7 How Good: -9.14
-Decomposers Est: -4.15 Actual: 5 How Good: -9.15
-Caretaker Contract Est: -6.17 Actual: 3 How Good: -9.17
-Lunar Exports (plants) Est: 9.82 Actual: 19 How Good: -9.18
-Articial lake Est: 5.68 Actual: 15 How Good: -9.32
-Earth Catapault Est: 13.66 Actual: 23 How Good: -9.34
-Subterranean reservoir Est: 1.64 Actual: 11 How Good: -9.36
-Development Center Est: 1.61 Actual: 11 How Good: -9.39
-Jovian Lanterns Est: 10.55 Actual: 20 How Good: -9.45
-underground Detonations Est: -3.59 Actual: 6 How Good: -9.59
-Magnetic Field generators Est: 10.37 Actual: 20 How Good: -9.63
-Advanced Alloys Est: -0.72 Actual: 9 How Good: -9.72
-Adapted Lichen Est: -0.73 Actual: 9 How Good: -9.73
-Insulation Est: -7.75 Actual: 2 How Good: -9.75
-Robotic Workforce Est: -0.76 Actual: 9 How Good: -9.76
-Trade Envoys Est: -3.82 Actual: 6 How Good: -9.82
-Industrial Microbes Est: 2.06 Actual: 12 How Good: -9.94
-Flooding Est: -2.94 Actual: 7 How Good: -9.94
-Worms Est: -1.95 Actual: 8 How Good: -9.95
-Building Industries Est: -3.97 Actual: 6 How Good: -9.97
-Floater Leasing Est: -7.11 Actual: 3 How Good: -10.11
-Predators Est: 3.46 Actual: 14 How Good: -10.54
-Equatorial Magnetizer Est: 0.21 Actual: 11 How Good: -10.79
-Ironworks Est: 0.16 Actual: 11 How Good: -10.84
-Protected Habitats Est: -6.01 Actual: 5 How Good: -11.01
-Inventors Guild Est: -2.08 Actual: 9 How Good: -11.08
-Insects Est: -2.11 Actual: 9 How Good: -11.11
-Conscription Est: -6.21 Actual: 5 How Good: -11.21
-Martian Rails Est: 1.77 Actual: 13 How Good: -11.23
-Ore Processor Est: 1.72 Actual: 13 How Good: -11.28
-power grid Est: 6.59 Actual: 18 How Good: -11.41
-Underground City Est: 6.58 Actual: 18 How Good: -11.42
-energySaving Est: 3.41 Actual: 15 How Good: -11.59
-Nitrophilic Moss Est: -3.59 Actual: 8 How Good: -11.59
-research coordination Est: -4.62 Actual: 7 How Good: -11.62
-Indentured Workers Est: -11.63 Actual: 0 How Good: -11.63
-Steelworks Est: 3.21 Actual: 15 How Good: -11.79
-AI Central Est: 9.04 Actual: 21 How Good: -11.96
-Nuclear Power Est: -2.1 Actual: 10 How Good: -12.1
-Great Escarpment Consortium Est: -6.12 Actual: 6 How Good: -12.12
-Urban decomposers Est: -6.17 Actual: 6 How Good: -12.17
-Hackers Est: -9.18 Actual: 3 How Good: -12.18
-Artificial Photosynthesis (energy) Est: -0.27 Actual: 12 How Good: -12.27
-Energy Tapping Est: -9.29 Actual: 3 How Good: -12.29
-Aquifer Pumping Est: 5.5 Actual: 18 How Good: -12.5
-Space Port Colony Est: 14.39 Actual: 27 How Good: -12.61
-Snow Algae Est: -0.7 Actual: 12 How Good: -12.7
-solarnet Est: -5.82 Actual: 7 How Good: -12.82
-Gyropolis Est: 7.08 Actual: 20 How Good: -12.92
-Zeppelins Est: 0.06 Actual: 13 How Good: -12.94
-Designed MicroOrganisms Est: 2.95 Actual: 16 How Good: -13.05
-Artificial Photosynthesis (plants) Est: -1.34 Actual: 12 How Good: -13.34
-Plantation Est: 1.58 Actual: 15 How Good: -13.42
-omnicourt Est: -2.51 Actual: 11 How Good: -13.51
-luxury foods Est: -5.68 Actual: 8 How Good: -13.68
-Tectonic Stress Power Est: 4.32 Actual: 18 How Good: -13.68
-floating habs Est: -9.4 Actual: 5 How Good: -14.4
-Cloud Seeding Est: -3.63 Actual: 11 How Good: -14.63
-immigrant city Est: -3.2 Actual: 13 How Good: -16.2
-Self Replicating Robots Est: -9.68 Actual: 7 How Good: -16.68
-Extreme Cold Fungus Est: -4.47 Actual: 13 How Good: -17.47
-mining quota Est: -10.17 Actual: 8 How Good: -18.17
-Water Splitting Plant Est: -6.84 Actual: 12 How Good: -18.84
+Mass Converter Est: 31.73 Actual: 11 How Good: 20.73
+Impactor Swarm Est: 32.28 Actual: 14 How Good: 18.28
+Farming Est: 32.6 Actual: 19 How Good: 13.6
+Kelp Farming Est: 33.53 Actual: 20 How Good: 13.53
+Deimos Down Est: 46.79 Actual: 34 How Good: 12.79
+Conscription Est: 20.01 Actual: 8 How Good: 12.01
+Virus(Plants) Est: 15.57 Actual: 4 How Good: 11.57
+Trees Est: 26.62 Actual: 16 How Good: 10.62
+freyja biodomes (microbes) Est: 27.43 Actual: 17 How Good: 10.43
+Imorted GHG Est: 20.41 Actual: 10 How Good: 10.41
+Imported Nitrogen Est: 36.25 Actual: 26 How Good: 10.25
+Investment Loan Est: 16.2 Actual: 6 How Good: 10.2
+Ecology Research Est: 33.74 Actual: 24 How Good: 9.74
+Air Raid Est: 12.61 Actual: 3 How Good: 9.61
+Red Spot Observatory Est: 29.24 Actual: 20 How Good: 9.24
+Tech Demo Est: 17.05 Actual: 8 How Good: 9.05
+solar Wind Power Est: 23.02 Actual: 14 How Good: 9.02
+freyja biodomes (animals) Est: 25.87 Actual: 17 How Good: 8.87
+Big Asteroid Est: 38.75 Actual: 30 How Good: 8.75
+Quantum Extractor Est: 24.69 Actual: 16 How Good: 8.69
+Advanced Ecosystems Est: 22.08 Actual: 14 How Good: 8.08
+Solar Probe Est: 19.8 Actual: 12 How Good: 7.8
+Sabotage (money) Est: 11.78 Actual: 4 How Good: 7.78
+Floater Prototypes Est: 12.7 Actual: 5 How Good: 7.7
+Corona Extractor Est: 20.6 Actual: 13 How Good: 7.6
+Asteroid Est: 24.53 Actual: 17 How Good: 7.53
+Atalanta Planitia Lab Est: 20.39 Actual: 13 How Good: 7.39
+EOS Chasma National Park Est: 26.27 Actual: 19 How Good: 7.27
+Imported Hydrogen (Plant Choice) Est: 25.98 Actual: 19 How Good: 6.98
+Dawn City Est: 24.97 Actual: 18 How Good: 6.97
+IO Sulphur Research (3 card) Est: 26.82 Actual: 20 How Good: 6.82
+Large Convoy (Plants) Est: 45.76 Actual: 39 How Good: 6.76
+Nitrite Reducing Bacteria Est: 20.75 Actual: 14 How Good: 6.75
+antigrav Technology Est: 23.42 Actual: 17 How Good: 6.42
+Hired Raiders (Money) Est: 10.2 Actual: 4 How Good: 6.2
+Luna Governor Est: 13.18 Actual: 7 How Good: 6.18
+Virus(Animals) Est: 10.17 Actual: 4 How Good: 6.17
+Natural Reserve Est: 18.15 Actual: 12 How Good: 6.15
+comet for venus Est: 20.11 Actual: 14 How Good: 6.11
+Olympus Conference Est: 19.06 Actual: 13 How Good: 6.06
+Nitrogen Rich Asteroid(with tags) Est: 40.04 Actual: 34 How Good: 6.04
+Large Convoy (Animals) Est: 44.68 Actual: 39 How Good: 5.68
+Noctis Farming Est: 18.53 Actual: 13 How Good: 5.53
+Research Est: 19.51 Actual: 14 How Good: 5.51
+Import of Advanced GHG Est: 17.48 Actual: 12 How Good: 5.48
+Hired Raiders (steel) Est: 9.34 Actual: 4 How Good: 5.34
+Colonizer Training Camp Est: 16.26 Actual: 11 How Good: 5.26
+sponsored academies Est: 17.18 Actual: 12 How Good: 5.18
+Imported Hydrogen (Animal Choice) Est: 24.13 Actual: 19 How Good: 5.13
+Luna Metropolis Est: 29.09 Actual: 24 How Good: 5.09
+Tundra Farming Est: 23.96 Actual: 19 How Good: 4.96
+Indentured Workers Est: 7.88 Actual: 3 How Good: 4.88
+Trans Neptune Probe Est: 13.82 Actual: 9 How Good: 4.82
+Deuterium export Est: 18.62 Actual: 14 How Good: 4.62
+Pets Est: 17.57 Actual: 13 How Good: 4.57
+Lagrange Observatory Est: 16.55 Actual: 12 How Good: 4.55
+giant Ice Asteroid Est: 43.45 Actual: 39 How Good: 4.45
+Venus governor Est: 11.4 Actual: 7 How Good: 4.4
+Mineral Deposit Est: 12.37 Actual: 8 How Good: 4.37
+Power Plant Est: 11.34 Actual: 7 How Good: 4.34
+Sabotage (Steel) Est: 8.32 Actual: 4 How Good: 4.32
+Atmoscoop (Heat) Est: 29.23 Actual: 25 How Good: 4.23
+Fueled generators Est: 8.18 Actual: 4 How Good: 4.18
+Space Elevator Est: 34.17 Actual: 30 How Good: 4.17
+Market Manipulation Est: 8.17 Actual: 4 How Good: 4.17
+Mars University Est: 15.08 Actual: 11 How Good: 4.08
+Windmills Est: 13.07 Actual: 9 How Good: 4.07
+Invention Contest Est: 9.01 Actual: 5 How Good: 4.01
+Mining Area (Titanium) Est: 10.89 Actual: 7 How Good: 3.89
+Biomass Combustors Est: 10.86 Actual: 7 How Good: 3.86
+Venusian plants (microbe) Est: 19.78 Actual: 16 How Good: 3.78
+Small Animals Est: 12.76 Actual: 9 How Good: 3.76
+terraforming contract Est: 14.63 Actual: 11 How Good: 3.63
+Space Mirrors Est: 9.63 Actual: 6 How Good: 3.63
+Air-Scrapping Expedition Est: 19.61 Actual: 16 How Good: 3.61
+Bushes Est: 16.48 Actual: 13 How Good: 3.48
+Space hotels Est: 18.47 Actual: 15 How Good: 3.47
+Fusion Power Est: 20.45 Actual: 17 How Good: 3.45
+extremophiles Est: 9.39 Actual: 6 How Good: 3.39
+Sabotage (Titanium) Est: 7.32 Actual: 4 How Good: 3.32
+Sky Docks Est: 24.29 Actual: 21 How Good: 3.29
+GHG Producing Bacteria Est: 14.27 Actual: 11 How Good: 3.27
+Atmoscoop (venus) Est: 28.15 Actual: 25 How Good: 3.15
+venusian insects Est: 11.08 Actual: 8 How Good: 3.08
+Venus Waystation Est: 15.04 Actual: 12 How Good: 3.04
+Venusian plants (animal) Est: 19.0 Actual: 16 How Good: 3.0
+Urbanized Area Est: 15.98 Actual: 13 How Good: 2.98
+Imported Hydrogen (Microbe Choice) Est: 21.92 Actual: 19 How Good: 2.92
+Special Design Est: 9.86 Actual: 7 How Good: 2.86
+Heat Trappers Est: 11.84 Actual: 9 How Good: 2.84
+Power Infrastructure Est: 9.54 Actual: 7 How Good: 2.54
+venus soils Est: 25.53 Actual: 23 How Good: 2.53
+local shading Est: 9.53 Actual: 7 How Good: 2.53
+Tardigrades Est: 9.53 Actual: 7 How Good: 2.53
+Gene Repair Est: 17.5 Actual: 15 How Good: 2.5
+sister planet support Est: 12.46 Actual: 10 How Good: 2.46
+Heavy Taxation Est: 8.45 Actual: 6 How Good: 2.45
+Psychrophiles Est: 7.38 Actual: 5 How Good: 2.38
+Open City Est: 28.38 Actual: 26 How Good: 2.38
+Titan floating launch pad Est: 23.28 Actual: 21 How Good: 2.28
+Interplanetary Colony ship Est: 17.24 Actual: 15 How Good: 2.24
+corroder suits (floater) Est: 13.06 Actual: 11 How Good: 2.06
+Sub zero salt fish Est: 9.9 Actual: 8 How Good: 1.9
+Phobos Space Haven Est: 29.88 Actual: 28 How Good: 1.88
+sulphur eating bacteria Est: 10.85 Actual: 9 How Good: 1.85
+Fish Est: 13.85 Actual: 12 How Good: 1.85
+Industrial Center Est: 8.8 Actual: 7 How Good: 1.8
+Solar Power Est: 15.77 Actual: 14 How Good: 1.77
+Jupitor Floating Station Est: 13.68 Actual: 12 How Good: 1.68
+Small Asteroid Est: 14.66 Actual: 13 How Good: 1.66
+Lightning Harvest Est: 12.65 Actual: 11 How Good: 1.65
+Peroxide Power Est: 11.63 Actual: 10 How Good: 1.63
+Research Outpost Est: 22.61 Actual: 21 How Good: 1.61
+Lunar Exports (money) Est: 23.6 Actual: 22 How Good: 1.6
+Mining Expedition Est: 16.57 Actual: 15 How Good: 1.57
+Miranda Resort Est: 16.53 Actual: 15 How Good: 1.53
+Medical Lab Est: 17.52 Actual: 16 How Good: 1.52
+Physics Complex Est: 16.51 Actual: 15 How Good: 1.51
+Mining Area (steel) Est: 8.47 Actual: 7 How Good: 1.47
+Mining Rights (Titanium) Est: 13.46 Actual: 12 How Good: 1.46
+Commercial District Est: 20.44 Actual: 19 How Good: 1.44
+Vesta Shipyard Est: 19.4 Actual: 18 How Good: 1.4
+CEOS Favorite Project Est: 5.38 Actual: 4 How Good: 1.38
+IO Sulphur Research (1 card) Est: 21.38 Actual: 20 How Good: 1.38
+Lake Mariners Est: 22.32 Actual: 21 How Good: 1.32
+Greenhouses Est: 10.31 Actual: 9 How Good: 1.31
+Nitrogen from titan Est: 29.31 Actual: 28 How Good: 1.31
+Earth Office Est: 5.28 Actual: 4 How Good: 1.28
+corroder suits (animal) Est: 12.28 Actual: 11 How Good: 1.28
+Comet Est: 25.17 Actual: 24 How Good: 1.17
+Sponsors Est: 10.15 Actual: 9 How Good: 1.15
+Spinoff Department Est: 14.15 Actual: 13 How Good: 1.15
+corroder suits (microbe) Est: 12.08 Actual: 11 How Good: 1.08
+Aerial Mappers Est: 15.06 Actual: 14 How Good: 1.06
+Hydrogen to venus Est: 15.05 Actual: 14 How Good: 1.05
+Interstellar Colony Ship Est: 28.0 Actual: 27 How Good: 1.0
+Business Contacts Est: 10.99 Actual: 10 How Good: 0.99
+martian survey Est: 12.97 Actual: 12 How Good: 0.97
+Mangrove Est: 15.93 Actual: 15 How Good: 0.93
+Heather Est: 9.91 Actual: 9 How Good: 0.91
+Titan Shuttles Est: 26.75 Actual: 26 How Good: 0.75
+Algae Est: 13.75 Actual: 13 How Good: 0.75
+Land Claim Est: 4.73 Actual: 4 How Good: 0.73
+Ganymede Colony Est: 23.69 Actual: 23 How Good: 0.69
+Ants Est: 12.66 Actual: 12 How Good: 0.66
+Geothermal Power Est: 14.62 Actual: 14 How Good: 0.62
+Great Dam Est: 15.57 Actual: 15 How Good: 0.57
+Deep Well Heating Est: 16.56 Actual: 16 How Good: 0.56
+Rim Freighters Est: 7.54 Actual: 7 How Good: 0.54
+Regolith Eaters Est: 16.49 Actual: 16 How Good: 0.49
+thermophiles Est: 12.45 Actual: 12 How Good: 0.45
+SF Memorial Est: 10.45 Actual: 10 How Good: 0.45
+Ice Cap Melting Est: 8.38 Actual: 8 How Good: 0.38
+Warp Drive Est: 17.37 Actual: 17 How Good: 0.37
+Food Factory Est: 15.37 Actual: 15 How Good: 0.37
+Viral Enhancers Est: 12.31 Actual: 12 How Good: 0.31
+Carbonate Processing Est: 9.31 Actual: 9 How Good: 0.31
+Forced Precipitation Est: 11.27 Actual: 11 How Good: 0.27
+Callisto Penal Mines Est: 27.27 Actual: 27 How Good: 0.27
+Flooding Est: 10.22 Actual: 10 How Good: 0.22
+Electro Catapault (steel) Est: 20.17 Actual: 20 How Good: 0.17
+Acquired Company Est: 13.13 Actual: 13 How Good: 0.13
+stratopolis Est: 25.13 Actual: 25 How Good: 0.13
+Domed Crater Est: 27.1 Actual: 27 How Good: 0.1
+Wave Power Est: 11.04 Actual: 11 How Good: 0.04
+Towing a Comet Est: 25.94 Actual: 26 How Good: -0.06
+Rover Construction Est: 10.94 Actual: 11 How Good: -0.06
+Grass Est: 13.84 Actual: 14 How Good: -0.16
+Molecular Printing Est: 13.82 Actual: 14 How Good: -0.18
+Penguins Est: 9.8 Actual: 10 How Good: -0.2
+Research Colony Est: 22.75 Actual: 23 How Good: -0.25
+maxwell base Est: 20.72 Actual: 21 How Good: -0.28
+Birds Est: 12.67 Actual: 13 How Good: -0.33
+Lunar Beam Est: 15.45 Actual: 16 How Good: -0.55
+Giant Space Mirror Est: 19.44 Actual: 20 How Good: -0.56
+Ecological Zone Est: 14.44 Actual: 15 How Good: -0.56
+Aerobraked Ammonia Asteroid Est: 28.37 Actual: 29 How Good: -0.63
+Cryo Sleep Est: 12.37 Actual: 13 How Good: -0.63
+GHG import from venus Est: 25.35 Actual: 26 How Good: -0.65
+Industrial Microbes Est: 14.35 Actual: 15 How Good: -0.65
+Ishtar mining Est: 7.33 Actual: 8 How Good: -0.67
+Mine Est: 6.29 Actual: 7 How Good: -0.71
+Space Station Est: 12.27 Actual: 13 How Good: -0.73
+Adaptation technology Est: 14.26 Actual: 15 How Good: -0.74
+Fuel Factory Est: 8.25 Actual: 9 How Good: -0.75
+Airliners Est: 13.19 Actual: 14 How Good: -0.81
+Power Supply Consortium Est: 7.13 Actual: 8 How Good: -0.87
+Nuclear Power Est: 12.1 Actual: 13 How Good: -0.9
+Floater Technology Est: 9.05 Actual: 10 How Good: -0.95
+Mining Rights (Steel) Est: 11.04 Actual: 12 How Good: -0.96
+Electro Catapault (plant) Est: 19.04 Actual: 20 How Good: -0.96
+Symbiotic Fungus Est: 5.95 Actual: 7 How Good: -1.05
+Nuclear Zone Est: 11.95 Actual: 13 How Good: -1.05
+Asteroid Mining Consortium Est: 14.87 Actual: 16 How Good: -1.13
+Titan air scrapping Est: 22.86 Actual: 24 How Good: -1.14
+Tropical Resort Est: 14.76 Actual: 16 How Good: -1.24
+Search for Life Est: 4.75 Actual: 6 How Good: -1.25
+Methane from titan Est: 29.75 Actual: 31 How Good: -1.25
+titanium mine Est: 8.72 Actual: 10 How Good: -1.28
+Convoy from europa Est: 16.68 Actual: 18 How Good: -1.32
+Standard Technology Est: 7.63 Actual: 9 How Good: -1.37
+Productive Outpost Est: 1.61 Actual: 3 How Good: -1.39
+local heat trapping (plants) Est: 2.61 Actual: 4 How Good: -1.39
+radchem factory Est: 9.58 Actual: 11 How Good: -1.42
+GHG Factories Est: 12.52 Actual: 14 How Good: -1.48
+Venusian animals Est: 16.47 Actual: 18 How Good: -1.53
+Media Group Est: 7.41 Actual: 9 How Good: -1.59
+Shuttles Est: 11.4 Actual: 13 How Good: -1.6
+Decomposers Est: 6.29 Actual: 8 How Good: -1.71
+underground Detonations Est: 7.28 Actual: 9 How Good: -1.72
+Dust Seals Est: 3.28 Actual: 5 How Good: -1.72
+lava flows Est: 19.26 Actual: 21 How Good: -1.74
+lava tube settlement Est: 15.98 Actual: 18 How Good: -2.02
+Noctis City Est: 18.96 Actual: 21 How Good: -2.04
+Dirigibles Est: 11.91 Actual: 14 How Good: -2.09
+Breathing Filters Est: 11.91 Actual: 14 How Good: -2.09
+house printing Est: 10.9 Actual: 13 How Good: -2.1
+Earth Elevator Est: 43.86 Actual: 46 How Good: -2.14
+Arctic Algae Est: 12.84 Actual: 15 How Good: -2.16
+jet stream microscrappers Est: 12.82 Actual: 15 How Good: -2.18
+business Network Est: 4.79 Actual: 7 How Good: -2.21
+Optimal Aerobraking Est: 7.79 Actual: 10 How Good: -2.21
+Martian Zoo Est: 12.79 Actual: 15 How Good: -2.21
+Archaebacteria Est: 6.77 Actual: 9 How Good: -2.23
+Moss Est: 4.75 Actual: 7 How Good: -2.25
+Extractor balloons Est: 21.75 Actual: 24 How Good: -2.25
+Energy Tapping Est: 3.74 Actual: 6 How Good: -2.26
+Mohole Area Est: 20.72 Actual: 23 How Good: -2.28
+Tectonic Stress Power Est: 18.67 Actual: 21 How Good: -2.33
+Insulation Est: 2.67 Actual: 5 How Good: -2.33
+Caretaker Contract Est: 3.58 Actual: 6 How Good: -2.42
+Quantum Communications Est: 8.49 Actual: 11 How Good: -2.51
+Magnetic Field Dome Est: 5.47 Actual: 8 How Good: -2.53
+Beam from a thorium asteroid Est: 32.46 Actual: 35 How Good: -2.54
+Livestock Est: 13.44 Actual: 16 How Good: -2.56
+water to venus Est: 12.4 Actual: 15 How Good: -2.6
+Herbivores Est: 12.39 Actual: 15 How Good: -2.61
+Media Archives Est: 8.38 Actual: 11 How Good: -2.62
+Bribed Committee Est: 7.37 Actual: 10 How Good: -2.63
+immigration shuttles Est: 31.32 Actual: 34 How Good: -2.68
+Cartel Est: 8.32 Actual: 11 How Good: -2.68
+stratospheric birds Est: 12.28 Actual: 15 How Good: -2.72
+Floater Leasing Est: 3.22 Actual: 6 How Good: -2.78
+Micro mills Est: 3.21 Actual: 6 How Good: -2.79
+Advanced Alloys Est: 9.19 Actual: 12 How Good: -2.81
+Robotic Workforce Est: 9.16 Actual: 12 How Good: -2.84
+Atmo Collectors Est: 15.16 Actual: 18 How Good: -2.84
+Adapted Lichen Est: 9.13 Actual: 12 How Good: -2.87
+Building Industries Est: 6.01 Actual: 9 How Good: -2.99
+Galilean Waystation Est: 15.0 Actual: 18 How Good: -3.0
+Cupola City Est: 15.99 Actual: 19 How Good: -3.01
+Space Port Est: 21.99 Actual: 25 How Good: -3.01
+Aerosport tournament Est: 6.92 Actual: 10 How Good: -3.08
+spin inducing asteroid Est: 15.83 Actual: 19 How Good: -3.17
+Lichen Est: 6.8 Actual: 10 How Good: -3.2
+minority Refuge Est: 4.71 Actual: 8 How Good: -3.29
+Artificial Photosynthesis (energy) Est: 11.63 Actual: 15 How Good: -3.37
+netralizer factory Est: 6.61 Actual: 10 How Good: -3.39
+Soil Factory Est: 8.58 Actual: 12 How Good: -3.42
+Permafrost Extraction Est: 7.51 Actual: 11 How Good: -3.49
+Asteroid Mining Est: 29.49 Actual: 33 How Good: -3.51
+Inventors Guild Est: 8.32 Actual: 12 How Good: -3.68
+Refugee camps Est: 9.31 Actual: 13 How Good: -3.69
+Protected Habitats Est: 4.29 Actual: 8 How Good: -3.71
+orbital reflectors Est: 25.28 Actual: 29 How Good: -3.72
+Designed MicroOrganisms Est: 15.27 Actual: 19 How Good: -3.73
+Sattelites Est: 9.21 Actual: 13 How Good: -3.79
+Development Center Est: 10.04 Actual: 14 How Good: -3.96
+Worms Est: 6.88 Actual: 11 How Good: -4.12
+Urban decomposers Est: 4.88 Actual: 9 How Good: -4.12
+Ironworks Est: 9.87 Actual: 14 How Good: -4.13
+Trade Envoys Est: 4.83 Actual: 9 How Good: -4.17
+Equatorial Magnetizer Est: 9.82 Actual: 14 How Good: -4.18
+Lunar Mining Est: 9.75 Actual: 14 How Good: -4.25
+Corporate Stronghold Est: 9.75 Actual: 14 How Good: -4.25
+Radsuits Est: 4.7 Actual: 9 How Good: -4.3
+Venus Magnetizer Est: 5.6 Actual: 10 How Good: -4.4
+rotator Impacts Est: 4.56 Actual: 9 How Good: -4.44
+Protected Valley Est: 21.56 Actual: 26 How Good: -4.44
+Subterranean reservoir Est: 9.46 Actual: 14 How Good: -4.54
+Nitrophilic Moss Est: 6.43 Actual: 11 How Good: -4.57
+Pioneer settlement Est: 11.37 Actual: 16 How Good: -4.63
+research coordination Est: 5.36 Actual: 10 How Good: -4.64
+sulphur exports Est: 19.31 Actual: 24 How Good: -4.69
+Release of Inert Gas Est: 12.29 Actual: 17 How Good: -4.71
+Lunar Exports (plants) Est: 17.27 Actual: 22 How Good: -4.73
+Toll Station Est: 10.2 Actual: 15 How Good: -4.8
+restricted area Est: 9.14 Actual: 14 How Good: -4.86
+Security Fleet Est: 10.12 Actual: 15 How Good: -4.88
+Ice Asteroid Est: 21.02 Actual: 26 How Good: -4.98
+Insects Est: 6.96 Actual: 12 How Good: -5.04
+Community Services Est: 10.83 Actual: 16 How Good: -5.17
+Ore Processor Est: 10.77 Actual: 16 How Good: -5.23
+Martian Rails Est: 10.76 Actual: 16 How Good: -5.24
+Hackers Est: 0.76 Actual: 6 How Good: -5.24
+Predators Est: 11.71 Actual: 17 How Good: -5.29
+Solar Reflectors Est: 20.55 Actual: 26 How Good: -5.45
+Trading Colony Est: 15.51 Actual: 21 How Good: -5.49
+Giant Solar Shade Est: 24.38 Actual: 30 How Good: -5.62
+local heat trapping (animals) Est: -1.85 Actual: 4 How Good: -5.85
+Great Escarpment Consortium Est: 3.08 Actual: 9 How Good: -5.92
+Water Import From Europa Est: 22.04 Actual: 28 How Good: -5.96
+Artificial Photosynthesis (plants) Est: 9.02 Actual: 15 How Good: -5.98
+Articial lake Est: 11.94 Actual: 18 How Good: -6.06
+Steelworks Est: 11.73 Actual: 18 How Good: -6.27
+Jovian Lanterns Est: 16.71 Actual: 23 How Good: -6.29
+Strip Mine Est: 21.67 Actual: 28 How Good: -6.33
+energySaving Est: 11.34 Actual: 18 How Good: -6.66
+Mining Colony Est: 16.27 Actual: 23 How Good: -6.73
+Nitrogen Rich Asteroid(no tags) Est: 27.15 Actual: 34 How Good: -6.85
+floating habs Est: 1.08 Actual: 8 How Good: -6.92
+Snow Algae Est: 8.02 Actual: 15 How Good: -6.98
+Earth Catapault Est: 18.98 Actual: 26 How Good: -7.02
+Cloud Seeding Est: 6.81 Actual: 14 How Good: -7.19
+Black Polar Dust Est: 10.74 Actual: 18 How Good: -7.26
+Capital Est: 21.48 Actual: 29 How Good: -7.52
+Terraforming Ganymede Est: 28.19 Actual: 36 How Good: -7.81
+Aquifer Pumping Est: 13.13 Actual: 21 How Good: -7.87
+Underground City Est: 12.89 Actual: 21 How Good: -8.11
+power grid Est: 12.78 Actual: 21 How Good: -8.22
+Ice Moon Colony Est: 17.75 Actual: 26 How Good: -8.25
+Plantation Est: 9.14 Actual: 18 How Good: -8.86
+Self Replicating Robots Est: 0.92 Actual: 10 How Good: -9.08
+solarnet Est: 0.81 Actual: 10 How Good: -9.19
+IO Mining Industries Est: 34.7 Actual: 44 How Good: -9.3
+Extreme Cold Fungus Est: 6.54 Actual: 16 How Good: -9.46
+Zeppelins Est: 6.35 Actual: 16 How Good: -9.65
+omnicourt Est: 3.8 Actual: 14 How Good: -10.2
+Magnetic Field generators Est: 12.78 Actual: 23 How Good: -10.22
+AI Central Est: 13.26 Actual: 24 How Good: -10.74
+mining quota Est: 0.22 Actual: 11 How Good: -10.78
+Water Splitting Plant Est: 4.01 Actual: 15 How Good: -10.99
+soletta Est: 26.98 Actual: 38 How Good: -11.02
+luxury foods Est: -0.03 Actual: 11 How Good: -11.03
+Gyropolis Est: 11.76 Actual: 23 How Good: -11.24
+immigrant city Est: 4.04 Actual: 16 How Good: -11.96
+Space Port Colony Est: 17.37 Actual: 30 How Good: -12.63

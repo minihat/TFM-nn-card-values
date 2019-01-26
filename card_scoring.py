@@ -1,5 +1,7 @@
 import re
 # Make dictionary where card ID looks up name, equation, true cost
+normalizer = 1.864
+
 def parse_eqs():
     with open("TFM_cards.data") as f:
         content = f.readlines()
@@ -33,7 +35,7 @@ def parse_eqs():
 equation_matrix, names_matrix = parse_eqs()
 
 # Get dictionary of bit Values
-with open("Test_log_with_negative_val_allowed.txt") as f:
+with open("Test_log_final.txt") as f:
     content = f.readlines()
 means = {}
 for line in content:
@@ -61,7 +63,7 @@ for i, card in enumerate(names_matrix):
         est_val += add_bit
         #print(bit)
         #print(add_bit)
-    card_est_values.append(round(est_val,2))
+    card_est_values.append(round(est_val/normalizer,2))
 
 
 for i in range(len(names_matrix)):
@@ -70,5 +72,9 @@ for i in range(len(names_matrix)):
 
 list1, names_matrix, card_est_values, card_real_values = zip(*sorted(zip(card_deal,names_matrix,card_est_values,card_real_values),reverse=True))
 f = open("card_results.txt",'w')
+summed_error = 0
 for i in range(len(names_matrix)):
     f.write(str(names_matrix[i]) + " Est: " + str(card_est_values[i]) + " Actual: " + str(card_real_values[i]) + " How Good: " + str(round(list1[i],2)) + "\n")
+    summed_error += list1[i]
+print("--------------")
+print(summed_error)

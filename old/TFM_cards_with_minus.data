@@ -1,0 +1,1363 @@
+! Colonizer Training Camp;
+@free(ID001);
+TJ + TB + 2*Po -ROxX5 + ID001 -3*D = 8;
+
+! Asteroid Mining Consortium;
+@free(ID002);
+TJ + PrTA + PrT + Po -RPrT + ID002 -3*D = 13;
+
+! Deep Well Heating;
+@free(ID003);
+TPo + TB + PrE + GTe + ID003 -3*D = 13;
+
+!Cloud Seeding;
+@free(ID004);
+2*PrP -PrM + PrHA -ROcN3 + ID004 -3*D = 11;
+
+!Search for Life;
+@free(ID005);
+TSc + SFL -ROxX6 + ID005 -3*D = 3;
+
+!Inventors Guild;
+@free(ID006);
+TSc + INV + ID006 -3*D = 9;
+
+!Martian Rails;
+@free(ID007);
+TB + MRS + ID007 -3*D = 13;
+
+!Capital;
+@free(ID008);
+TC + TB + 5*PrM -2*PrE + PlC + PoO1 -ROcN4 + ID008 -3*D = 26;
+
+!Asteroid;
+@free(ID009);
+TSp + TEv + GTe + 2*ReT + 3*RePA + ID009 -3*D = 14;
+
+!Comet;
+@free(ID010);
+TSp + TEv + GTe + PlOc + 3*RePA + ID010 -3*D = 21;
+
+!Big Asteroid;
+@free(ID011);
+TSp + TEv + 2*GTe + 4*ReT + 4*RePA + ID011 -3*D = 27;
+
+!Water Import From Europa;
+@free(ID012);
+TJ + TSp + WIE + PoJ1 + ID012 -3*D = 25;
+
+!Space Elevator;
+@free(ID013);
+TB + TSp + PrT + 2*Po -PrS + 5*PrM + ID013 -3*D = 27;
+
+!Development Center;
+@free(ID014);
+TSc + TB -PrE + CDPT + ID014 -3*D = 11;
+
+!Equatorial Magnetizer;
+@free(ID015);
+TB + EQM + ID015 -3*D = 11;
+
+!Domed Crater;
+@free(ID016);
+TC + TB + 3*ReP + 3*PrM -PrE + PlC + Po -ROxX7 + ID016 -3*D = 24;
+
+!Noctis City;
+@free(ID017);
+TC + TB + 3*PrM -PrE + PlC + ID017 -3*D = 18;
+
+!Methane from titan;
+@free(ID018);
+TJ + TSp + 2*PrH + 2*PrP + 2*Po -ROxN2 + ID018 -3*D = 28;
+
+!Imported Hydrogen (Plant Choice);
+@free(ID019A);
+TEa + TSp + TEv + 3*ReP + PlOc + ID019A -3*D = 16;
+
+!Imported Hydrogen (Microbe Choice);
+@free(ID019B);
+TEa + TSp + TEv + 3*ReM + PlOc + ID019B -3*D = 16;
+
+!Imported Hydrogen (Animal Choice);
+@free(ID019C);
+TEa + TSp + TEv + 2*ReA + PlOc + ID019C -3*D = 16;
+
+!Research Outpost;
+@free(ID020);
+TSc + TC + TB + DA1 + PlC + ID020 -3*D = 18;
+
+!Phobos Space Haven;
+@free(ID021);
+TC + TSp + PrT + PlCZ + 3*Pr + ID021 -3*D = 25;
+
+!Black Polar Dust;
+@free(ID022);
+3*PrH -2*PrM + PlOc + ID022 -3*D = 15;
+
+!Arctic Algae;
+@free(ID023);
+TPl + ReP + ARA + ID023 -3*D = 12;
+
+!Predators;
+@free(ID024);
+TA + SA + SAA + PoA1 -ROxN11 + ID024 -3*D = 14;
+
+!Space Station;
+@free(ID025);
+TSp + DSp2 + Po + ID025 -3*D = 10;
+
+!EOS Chasma National Park;
+@free(ID026);
+TPl + TB + ReA + 3*ReP + 2*PrM + Po -RTeNn12 + ID026 -3*D = 16;
+
+!Interstellar Colony Ship;
+@free(ID027);
+TEa + TSp + TEv + 4*Po -RTSc5 + ID027 -3*D = 24;
+
+!Security Fleet;
+@free(ID028);
+TSp + SCF + ID028 -3*D = 12;
+
+!Cupola City;
+@free(Id029);
+TC + TB + 3*PrM -PrE + PlC -ROxX9 + ID029 -3*D = 16;
+
+!Lunar Beam;
+@free(ID030);
+TEa + TPo + 2*PrH + 2*PrE -2*PrM + ID030 -3*D = 13;
+
+!Optimal Aerobraking;
+@free(ID031);
+TSp + OPA + ID031 -3*D = 7;
+
+!Underground City;
+@free(ID032);
+TC + TB + 2*PrS -2*PrE + PlC + ID032 -3*D = 18;
+
+!Regolith Eaters;
+@free(ID033);
+TSc + TM + SM + SMTR2 + ID033 -3*D = 13;
+
+!GHG Producing Bacteria;
+@free(ID034);
+TSc + TM + SM + SMTR2 -ROxN4 + ID032 -3*D = 8;
+
+!Ants;
+@free(ID035);
+TM + SM + SMA + PoM05 -ROxN4 + ID035 -3*D = 9;
+
+!Release of Inert Gas;
+@free(ID036);
+TEv + 2*GTR + ID036 -3*D = 14;
+
+!Nitrogen Rich Asteroid(no tags);
+@free(ID037A);
+TSp + TEv + PrP + 2*GTR + GTe + ID037A -3*D = 31;
+
+!Nitrogen Rich Asteroid(with tags);
+@free(ID037B);
+TSp + TEv + 4*PrP + 2*GTR + GTe + ID037B -3*D = 31;
+
+!Rover Construction;
+@free(ID038);
+TB + RVC + Po + ID038 -3*D = 8;
+
+!Deimos Down;
+@free(ID039);
+TSp + TEv + 3*GTe + 4*ReS + 8*RePA + ID039 -3*D = 31;
+
+!Asteroid Mining;
+@free(ID040);
+TJ + TSp + 2*PrT + 2*Pr + ID040 -3*D = 30;
+
+!Food Factory;
+@free(ID041);
+TB + 4*PrM -PrP + Po + ID041 -3*D = 12;
+
+!Archaebacteria;
+@free(ID042);
+TM + PrP -RTeXn18 + ID042 -3*D = 6;
+
+!Carbonate Processing;
+@free(ID043);
+TB + 3*PrH -PrE + ID043 -3*D = 6;
+
+!Natural Reserve;
+@free(ID044);
+TSc + TB + PrM + PlT + Po -ROxX4 + ID042 -3*D = 9;
+
+!Nuclear Power;
+@free(ID045);
+TP0 + TB + 3*PrE -2*PrM + ID045 -3*D = 10;
+
+!Lightning Harvest;
+@free(ID046);
+TPo + PrM + PrE + Po -RTSc3 + ID046 -3*D = 8;
+
+!Algae;
+@free(ID047);
+TPl + ReP + 2*PrP -ROc5 + ID047 -3*D = 10;
+
+!Adapted Lichen;
+@free(ID048);
+TPl + PrP + ID048 -3*D = 9;
+
+!Tardigrades;
+@free(ID049);
+TM + SM + PoM025 + ID049 -3*D = 4;
+
+!Virus(Animals);
+@free(ID050A);
+TM + TEv + 2*ReAA + ID050A -3*D = 1;
+
+!Virus(Plants);
+@free(ID050B);
+TM + TEv + 5*RePA + ID050B -3*D = 1;
+
+!Miranda Resort;
+@free(ID051);
+TJ + TSp + MRR + Po + ID051 -3*D = 12;
+
+!Fish;
+@free(ID052);
+TA + SA + PrPA + PoA1 + ID052 -3*D = 9;
+
+!Lake Mariners;
+@free(ID053);
+2*PlOc + 2*Pr -RTeN0 + ID053 -3*D = 18;
+
+!Small Animals;
+@free(ID054);
+TA + SA + PrPA + PoA05 + ID054 -3*D = 6;
+
+!Kelp Farming;
+@free(ID055);
+TPl + 2*ReP + 3*PrP + 2*PrM + Po + ID055 -3*D = 17;
+
+!Mine;
+@free(ID056);
+TB + PrS + ID056 -3*D = 4;
+
+!Vesta Shipyard;
+@free(ID057);
+TJ + TSp + PrT + Po + ID057 -3*D = 15;
+
+!Beam from a thorium asteroid;
+@free(ID058);
+TJ + TSp + TPo + 3*PrH + 3*PrE + Po -RTJ + ID058 -3*D = 32;
+
+!Mangrove;
+@free(ID059);
+TPl + PlG + Po -RTeN4 + ID059 -3*D = 12;
+
+!Trees;
+@free(ID060);
+TPl + ReP + 3*PrP + Po + RTeNn4 + ID060 -3*D = 13;
+
+!Great Escarpment Consortium;
+@free(ID061);
+PrS + PrSA -RPrS + ID061 -3*D = 6;
+
+!Mineral Deposit;
+@free(ID062);
+TEv + 5*ReS + ID062 -3*D = 5;
+
+!Mining Expedition;
+@free(ID063);
+TEv + GOx + 2*ReS + 2*RePA + ID063 = 12;
+
+!Mining Area (steel);
+@free(ID064A);
+TB + PlTA + PrS + ID064A -3*D = 4;
+
+!Mining Area (Titanium);
+@free(ID064B);
+TB + PlTA + PrT + ID064B -3*D = 4;
+
+!Building Industries;
+@free(ID065);
+TB + 2*PrS -PrE + ID065 -3*D = 6;
+
+!Land Claim;
+@free(ID066);
+TEv + LNC + ID066 -3*D = 1;
+
+!Mining Rights (Steel);
+@free(ID067A);
+TB + PlT + PrS + ID067A -3*D = 9;
+
+!Mining Rights (Titanium);
+@free(ID067B);
+TB + PlT + PrT + ID067B -3*D = 9;
+
+!Sponsors;
+@free(ID068);
+TEa + 2*PrM + ID068 -3*D = 6;
+
+!Electro Catapault (plant);
+@free(ID069A);
+TB -PrE + Po -PrP + 7*PrM -ROxX8 + ID069A -3*D = 17;
+
+!Electro Catapault (steel);
+@free(ID069B);
+TB -PrE + Po -PrS + 7*PrM -ROxX8 + ID069B -3*D = 17;
+
+!Earth Catapault;
+@free(ID070);
+TEa + DA2 + 2*Pr + ID070 -3*D = 23;
+
+!Advanced Alloys;
+@free(ID071);
+TSc + ADA + ID071 -3*D = 9;
+
+!Birds;
+@free(ID072);
+TA + SA + 2*PrPA + PoA1 -ROxN13 + ID072 -3*D = 10;
+
+!Mars University;
+@free(ID073);
+TSc + TB + MSU + Po + ID073 -3*D = 8;
+
+!Viral Enhancers;
+@free(ID074);
+TSc + TM + VEN + ID074 -3*D = 9;
+
+!Towing a Comet;
+@free(ID075);
+TSp + TEv + GOx + PlOc + 2*ReP + ID075 -3*D = 23;
+
+!Space Mirrors;
+@free(ID076);
+TPo + TSp + SPM + ID076 -3*D = 3;
+
+!solar Wind Power;
+@free(ID077);
+TSc + TSp + TPo + PrE + 2*ReT + ID077 -3*D = 11;
+
+!Ice Asteroid;
+@free(ID078);
+TSp + TEv + 2*PlOc + ID078 -3*D = 23;
+
+!Quantum Extractor;
+@free(ID079);
+TSc + TP0 + DSp2 + 4*PrE -RTSc4 + ID079 -3*D = 13;
+
+!giant Ice Asteroid;
+@free(ID080);
+TSp + TEv + 2*GTe + 2*PlOc + 6*RePA + ID080 -3*D = 36;
+
+!Ganymede Colony;
+@free(ID081);
+TJ + TSp + TC + PlCZ + PoJ1 + ID081 -3*D = 20;
+
+!Callisto Penal Mines;
+@free(ID082);
+TJ + TSp + 3*PrM + 2*Pr + ID0852 -3*D = 24;
+
+!Giant Space Mirror;
+@free(ID083);
+TP0 + TSp + 3*PrE + ID083 -3*D = 17;
+
+!Trans Neptune Probe;
+@free(ID084);
+TSc + TSp + Po + ID084 -3*D = 6;
+
+!Commercial District;
+@free(ID085);
+TB + 4*PrM -PrE + PlT + PoC1 + ID085 -3*D = 16;
+
+!Robotic Workforce;
+@free(ID086);
+TSc + RBW + ID086 -3*D = 9;
+
+!Grass;
+@free(ID087);
+TPl + 3*ReP + PrP -RTeNn16 + ID087 -3*D = 11;
+
+!Heather;
+@free(ID088);
+TPl + ReP + PrP -RTeNn14 + ID088 -3*D = 6;
+
+!Peroxide Power;
+@free(ID089);
+TP0 + TB + 2*PrE -PrM + ID089 -3*D = 7;
+
+!Research;
+@free(ID090);
+2*TSc + 2*CD + Po + ID090 -3*D = 11;
+
+!Gene Repair;
+@free(ID091);
+TSc + 2*PrM + 2*Pr -RTSc3 + ID091 -3*D = 12;
+
+!IO Mining Industries;
+@free(ID092);
+TJ + TSp + 2*PrT + 2*PrM + PoJ1 + ID092 -3*D = 41;
+
+!Bushes;
+@free(ID093);
+TPl + 2*ReP + 2*PrP -RTeNn10 + ID093 -3*D = 10;
+
+!Mass Converter;
+@free(ID094);
+TSc + TP0 + DSp2 + 6*PrE -RTSc5 + ID094 -3*D = 8;
+
+!Physics Complex;
+@free(ID095);
+TSc + TB + PYC + PoSc2 + ID095 -3*D = 12;
+
+!Greenhouses;
+@free(ID096);
+TPl + TB + GHS + ID096 -3*D = 6;
+
+!Nuclear Zone;
+@free(ID097);
+TEa + PlT + 2*GTe -2*Pr + ID097 -3*D = 10;
+
+!Tropical Resort;
+@free(ID098);
+TB + 3*PrM -2*PrH + 2*Pr + ID098 = 13;
+
+!Toll Station;
+@free(ID099);
+TSp + TLS + ID099 -3*D = 12;
+
+!Fueled generators;
+@free(ID100);
+TP0 + TB + PrE -PrM + ID100 -3*D = 1;
+
+!Ironworks;
+@free(ID101);
+TB + INW + ID101 -3*D = 11;
+
+!power grid;
+@free(ID102);
+TP0 + PWG + ID102 -3*D = 18;
+
+!Steelworks;
+@free(ID103);
+TB + STW + ID103 -3*D = 15;
+
+!Ore Processor;
+@free(ID104);
+TB + ORP + ID104 -3*D = 13;
+
+!Earth Office;
+@free(ID105);
+TEa + DEa3 + ID105 -3*D = 1;
+
+!Acquired Company;
+@free(ID106);
+TEa + 3*PrM + ID106 -3*D = 10;
+
+!Media Archives;
+@free(ID107);
+TEa + MDA + ID107 -3*D = 8;
+
+!Open City;
+@free(ID108);
+TC + TB + 2*ReP + 4*PrM -PrE + PlC + Po -ROxN12 + ID108 -3*D = 23;
+
+!Media Group;
+@free(ID109);
+TEa + MDG + ID109 -3*D = 6;
+
+!business Network;
+@free(ID110);
+TEa + INV -PrM + ID110 -3*D = 4;
+
+!Business Contacts;
+@free(ID111);
+TEa + TEv + BNC + ID111 -3*D = 7;
+
+!Bribed Committee;
+@free(ID112);
+TEa + TEv + 2*GTR -2*Pr + ID112 -3*D = 7;
+
+!Solar Power;
+@free(ID113);
+TP0 + TB + PrE + Po + ID113 -3*D = 11;
+
+!Breathing Filters;
+@free(ID114);
+TSc + 2*Po -ROxN7 + ID114 -3*D = 11;
+
+!Artificial Photosynthesis (plants);
+@free(ID115A);
+TSc + PrP + ID115A -3*D = 12;
+
+!Artificial Photosynthesis (energy);
+@free(ID115B);
+TSc + 2*PrE + ID115B -3*D = 12;
+
+!Articial lake;
+@free(ID116);
+TB + Po + PlOc -RTeNn6 + ID116 -3*D = 15;
+
+!Geothermal Power;
+@free(ID117);
+TP0 + TB + 2*PrE + ID117 -3*D = 11;
+
+!Farming;
+@free(ID118);
+TPl + 2*ReP + 2*PrM + 2*PrP + 2*Pr -RTeN4 + ID118 -3*D = 16;
+
+!Dust Seals;
+@free(ID119);
+Po -ROcX3 + ID119 -3*D = 2;
+
+!Urbanized Area;
+@free(ID120);
+TC + TB + 2*PrM -PrE + PlC + ID120 -3*D = 10;
+
+!Sabotage (Titanium);
+@free(ID121A);
+TEv + 3*ReTA + ID121A -3*D = 1;
+
+!Sabotage (Steel);
+@free(ID121B);
+TEv + 4*ReSA + ID121B -3*D = 1;
+
+!Sabotage (money);
+@free(ID121C);
+TEv + 7*ReMA + ID121C -3*D = 1;
+
+!Moss;
+@free(ID122);
+TPl + PrP -ReP -ROcN3 + ID122 -3*D = 4;
+
+!Industrial Center;
+@free(ID123);
+TB + PlTA + IDC + ID123 -3*D = 4;
+
+!Hired Raiders (steel);
+@free(ID124A);
+TEv + 2*ReS + 2*ReSA + ID124A -3*D = 1;
+
+!Hired Raiders (Money);
+@free(ID124B);
+TEv + 3*ReM + 3*ReMA + ID124B -3*D = 1;
+
+!Hackers;
+@free(ID125);
+2*PrM + 2*PrMA -PrE -Po + ID125 -3*D = 3;
+
+!GHG Factories;
+@free(ID126);
+TB + 4*PrH -PrE + ID126 -3*D = 11;
+
+!Subterranean reservoir;
+@free(ID127);
+TEv + PlOc + ID127 -3*D = 11;
+
+!Ecological Zone;
+@free(ID128);
+TA + TPl + PlTA + PoA05 + ECZ -RG + ID128 -3*D = 12;
+
+!Zeppelins;
+@free(ID129);
+Po + ZPN -ROxN5 + ID129 -3*D = 13;
+
+!Worms;
+@free(ID130);
+TM + WRM -ROxN4 + ID130 -3*D = 8;
+
+!Decomposers;
+@free(ID131);
+TM + DCP + PoM033 -ROxN3 + ID131 -3*D = 5;
+
+!Fusion Power;
+@free(ID132);
+TSc + TP0 + TB + 3*PrE -RTP2 + ID132 -3*D = 14;
+
+!Symbiotic Fungus;
+@free(ID133);
+TM + SMO -RTeNn14 + ID133 -3*D = 4;
+
+!Extreme Cold Fungus;
+@free(ID134);
+TM + 2*SMO -RTeXn10 + ID134 -3*D = 13;
+
+!Advanced Ecosystems;
+@free(ID135);
+TPl + TM + TA + 3*Pr -RTP -RTM -RTA + ID135 -3*D = 11;
+
+!Great Dam;
+@free(ID136);
+TPo + TB + 2*PrE + Po -ROcN4 + ID136 -3*D = 12;
+
+!Cartel;
+@free(ID137);
+TEa + CRT + ID137 -3*D = 8;
+
+!Strip Mine;
+@free(ID138);
+TB + 2*PrS + PrT -2*PrE + 2*GOx + ID138 -3*D = 25;
+
+!Wave Power;
+@free(ID139);
+TPo + PrP + Po -ROcN3 + ID139 -3*D = 8;
+
+!lava flows;
+@free(ID140);
+TEv + 2*GTe + PlT + ID140 -3*D = 18;
+
+!Power Plant;
+@free(ID141);
+TPo + TB + PrP + ID141 -3*D = 4;
+
+!Mohole Area;
+@free(ID142);
+TB + 4*PrH + PlT + ID142 -3*D = 20;
+
+!Large Convoy (Plants);
+@free(ID143A);
+TEa + TSp + TEv + PlOc + 2*CD + 5*ReP + 2*Pr + ID143A -3*D = 36;
+
+!Large Convoy (Animals);
+@free(ID143B);
+TEa + TSp + TEv + PlOc + 2*CD + 4*ReA + 2*Pr + ID143B -3*D = 36;
+
+!titanium mine;
+@free(ID144);
+TB + PrT + ID144 -3*D = 7;
+
+!Tectonic Stress Power;
+@free(ID145);
+TPo + TB + 3*PrE + Po -RTSc2 + ID145 -3*D = 18;
+
+!Nitrophilic Moss;
+@free(ID146);
+TPl + 2*PrP -2*ReP -ROcN3 + ID146 -3*D = 8;
+
+!Herbivores;
+@free(ID147);
+TA + HBV + ReA + PrPA + PoA05 -ROxN8 + ID147 -3*D = 12;
+
+!Insects;
+@free(ID148);
+TM + INS -ROxN6 + ID148 -3*D = 9;
+
+!CEOS Favorite Project;
+@free(ID149);
+TEv + ReA + ID149 -3*D = 1;
+
+!antigrav Technology;
+@free(ID150);
+TSc + DA2 + 3*Pr -RTSc7 + ID150 -3*D = 14;
+
+!Investment Loan;
+@free(ID151);
+TEa + Tev + 10*ReM -PrM + ID151 -3*D = 3;
+
+!Insulation;
+@free(ID152);
+ISN + ID152 -3*D = 2;
+
+!Adaptation technology;
+@free(ID153);
+Tsc + Po + ATT + ID153 -3*D = 12;
+
+!Caretaker Contract;
+@free(ID154);
+CTC -RTeN0 + ID154 -3*D = 3;
+
+!Designed MicroOrganisms;
+@free(ID155);
+TSc + TM + 2*PrP -RTeXn14 + ID155 -3*D = 16;
+
+!Standard Technology;
+@free(ID156);
+TSc + STD + ID156 -3*D = 6;
+
+!Nitrite Reducing Bacteria;
+@free(ID157);
+TM + SM + 3*ReMi + SMTR3 + ID157 -3*D = 11;
+
+!Industrial Microbes;
+@free(ID158);
+TM + TB + PrE + PrS + ID158 -3*D = 12;
+
+!Lichen;
+@free(ID159);
+TPl + PrP -RTeNn24 + ID159 -3*D = 7;
+
+!Power Supply Consortium;
+@free(ID160);
+TPo + PrP + PrPA -RTPo2 + ID160 -3*D = 5;
+
+!Convoy from europa;
+@free(ID161);
+TSp + TEv + PlOc + CD + ID161 -3*D = 15;
+
+!Imorted GHG;
+@free(ID162);
+TEa + TSp + TEv + PrH + 3*ReH + ID162 -3*D = 7;
+
+!Imported Nitrogen;
+@free(ID163);
+TEa + TSp + TEv + GTR + 4*ReP + 3*ReM + 2*ReA + ID163 -3*D = 23;
+
+!Micro mills;
+@free(ID164);
+PrH + ID164 -3*D = 3;
+
+!Magnetic Field generators;
+@free(ID165);
+TB + 3*GTR + 2*PrP -4*PrE + ID165 -3*D = 20;
+
+!Shuttles;
+@free(ID166);
+TSp + DSp2 + 2*PrM -PrE + Po -ROxN5 + ID166 -3*D = 10;
+
+!Import of Advanced GHG;
+@free(ID167);
+TEa + TSp + TEv + 2*PrH + ID167 -3*D = 9;
+
+!Windmills;
+@free(ID168);
+TPo + TB + PrE + Po -ROxN7 + ID168 -3*D = 6;
+
+!Tundra Farming;
+@free(ID169);
+TPl + ReP + PrP + 2*PrM + 2*Pr -RTeNn6 + ID169 -3*D = 16;
+
+!Aerobraked Ammonia Asteroid;
+@free(ID170);
+TSp + TEv + 3*PrH + PrP + 2*ReMi + ID170 -3*D = 26;
+
+!Magnetic Field Dome;
+@free(ID171);
+TB + PrP + GTR -2*PrE + ID171 -3*D = 5;
+
+!Pets;
+@free(ID172);
+TEa + TA + ReA + PoA05 + PET + ID172 -3*D = 10;
+
+!Protected Habitats;
+@free(ID173);
+PTH + ID173 -3*D = 5;
+
+!Protected Valley;
+@free(ID174);
+TPl + TB + 2*PrM + PlG + ID174 -3*D = 23;
+
+!Sattelites;
+@free(ID175);
+TSp + SAT + ID175 -3*D = 10;
+
+!Noctis Farming;
+@free(ID176);
+TB + TPl + PrM + 2*ReP + Po -RTeNn20 + ID176 -3*D = 10;
+
+!Water Splitting Plant;
+@free(ID177);
+TB + WSP -ROcN2 + ID177 -3*D = 12;
+
+!Heat Trappers;
+@free(ID178);
+TPo + TB + PrE + 2*PrHA -Po + ID178 -3*D = 6;
+
+!Soil Factory;
+@free(ID179);
+TB + PrP -PrE + Po + ID179 -3*D = 9;
+
+!Fuel Factory;
+@free(ID180);
+TB + PrT + PrM -PrE + ID180 -3*D = 6;
+
+!Ice Cap Melting;
+@free(ID181);
+TEv + PlOc -RTeN2 + ID181 -3*D = 5;
+
+!Corporate Stronghold;
+@free(ID182);
+TC + TB + 3*PrM -PrE + PlC -2*Po + ID182 -3*D = 11;
+
+!Biomass Combustors;
+@free(ID183);
+TPo + TB + 2*PrP + PrPA -Po -ROxN6 + ID183 -3*D = 4;
+
+!Livestock;
+@free(ID184);
+TA + SA + 2*PrM -PrP + PoA1 + ID184 -3*D = 13;
+
+!Olympus Conference;
+@free(ID185);
+TSc + TEa + TB + OLC + Po + ID185 -3*D = 10;
+
+!Radsuits;
+@free(ID186);
+PrM + Po -RC2 + ID186 -3*D = 6;
+
+!Aquifer Pumping;
+@free(ID187);
+TB + AQP + ID187 -3*D = 18;
+
+!Flooding;
+@free(ID188);
+TEv + PlOc + 4*ReMA -Po + ID188 -3*D = 7;
+
+!energySaving;
+@free(ID189);
+TPo + ENG + ID189 -3*D = 15;
+
+!local heat trapping (plants);
+@free(ID190A);
+TEv + 4*ReP -5*ReH + ID190A -3*D = 1;
+
+!local heat trapping (animals);
+@free(ID190B);
+TEv + 2*ReA -5*ReH + ID190B -3*D = 1;
+
+!Permafrost Extraction;
+@free(ID191);
+TEv + PlOc -RTeNn8 + ID191 -3*D = 8;
+
+!Invention Contest;
+@free(ID192);
+TSc + TEv + IVC + ID192 -3*D = 2;
+
+!Plantation;
+@free(ID193);
+TPl + PlG -RTSc2 + ID193 -3*D = 15;
+
+!Power Infrastructure;
+@free(ID194);
+TPo + TB + PIF + ID194 -3*D = 4;
+
+!Indentured Workers;
+@free(ID195);
+TEv + 8*ReM -Po + ID195 -3*D = 0;
+
+!Lagrange Observatory;
+@free(ID196);
+TSc + TSp + CD + Po + ID196 -3*D = 9;
+
+!Terraforming Ganymede;
+@free(ID197);
+TJ + TSp + 2*Po + TFG + ID197 -3*D = 33;
+
+!immigration shuttles;
+@free(ID198);
+TEa + TSp + 5*PrM + IMM + ID198 -3*D = 31;
+
+!restricted area;
+@free(ID199);
+TSc + PlT -2*PrM + CDPT + ID199 -3*D = 11;
+
+!immigrant city;
+@free(ID200);
+TC + TB -PrE -2*PrM + PlC + ID200 -3*D = 13;
+
+!Energy Tapping;
+@free(ID201);
+TPo + PrE + PrEA -Po + ID201 -3*D = 3;
+
+!underground Detonations;
+@free(ID202);
+TB + UGD + ID202 -3*D = 6;
+
+!soletta;
+@free(ID203);
+TSp + 7*PrH + ID203 -3*D = 35;
+
+!Tech Demo;
+@free(ID204);
+TSc + TSp + TEv + 2*CD + ID204 -3*D = 5;
+
+!radchem factory;
+@free(ID205);
+TB -PrE + 2*GTR + ID205 -3*D = 8;
+
+!Special Design;
+@free(ID206);
+TSc + TEv + SPD + ID206 -3*D = 4;
+
+!Medical Lab;
+@free(ID207);
+TSc + TB + MDL + Po + ID207 -3*D = 13;
+
+!AI Central;
+@free(ID208);
+TB -PrE + Po + 2*CDPT -RTSc3 + ID208 -3*D = 21;
+
+!
+! Promo Cards start here
+!
+
+!Small Asteroid;
+@free(ID209);
+TSp + TEv + GTe + RePA + ID209 -3*D = 10;
+
+!Self Replicating Robots;
+@free(ID210);
+SFR -RTSc2 + ID210 -3*D = 7;
+
+!Snow Algae;
+@free(ID211);
+TPl + PrP + PrH -ROcN2 + ID211 -3*D = 12;
+
+!Penguins;
+@free(ID212);
+TA + SA + PoA1 -ROcN8 + ID212 -3*D = 7;
+
+!
+! Venuc Next starts here
+!
+
+!Aerial Mappers;
+@free(ID213);
+TV + SFO + Po + 0.5*CDPT + ID213 -3*D = 11;
+
+!Aerosport tournament;
+@free(ID214);
+TEv + Po + AST -RF5 + ID214 -3*D = 7;
+
+!Air-Scrapping Expedition;
+@free(ID215);
+TV + TEv + GV + 3*ReF + ID215 -3*D = 13;
+
+!Atalanta Planitia Lab;
+@free(ID216);
+TV + TSc + 2*CD + 2*Po -RTSc3 + ID216 -3*D = 10;
+
+!Atmoscoop (Heat);
+@free(ID217A);
+TJ + TSp + 2*ReF + 2*GTe + Po -RTSc3 + ID217A -3*D = 22;
+
+!Atmoscoop (venus);
+@free(ID217B);
+TJ + TSp + 2*ReF + 2*GV + Po -RTSc3 + ID217B -3*D = 22;
+
+!comet for venus;
+@free(ID218);
+TSp + TSc + GV + 4*ReMA + ID218 -3*D = 11;
+
+!corroder suits (floater);
+@free(ID219A);
+TV + 2*PrM + ReMi + ID219A -3*D = 8;
+
+!corroder suits (microbe);
+@free(ID219B);
+TV + 2*PrM + ReF + ID219B -3*D = 8;
+
+!corroder suits (animal);
+@free(ID219C);
+TV + 2*PrM + ReA + ID219C -3*D = 8;
+
+!Dawn City;
+@free(ID220);
+TSp + TC + PrT -PrE + PlCZ + 3*Po -RTSc4 + ID220 -3*D = 15;
+
+!Deuterium export;
+@free(ID221);
+TV + TPo + TSp + SF + DEX + ID221 -3*D = 11;
+
+!Dirigibles;
+@free(ID222);
+TV + SFO + DRG + ID222 -3*D = 11;
+
+!Extractor balloons;
+@free(ID223);
+TV + SF + SFTR2 + 3*ReF + ID223 -3*D = 21;
+
+!extremophiles;
+@free(ID224);
+TV + TM + SMO + PoM033 -RTSc2 + ID224 -3*D = 3;
+
+!floating habs;
+@free(ID225);
+TV -2*PrM + SFO + PoF05 -RTSc2 + ID225 -3*D = 5;
+
+!Forced Precipitation;
+@free(ID226);
+TV + FDP + SFTR2 + ID226 -3*D = 8;
+
+!freyja biodomes (microbes);
+@free(ID227A);
+TV + TPl + 2*ReMi + 2*PrM -PrE + 2*Po + ID227BA -3*D = 14;
+
+!freyja biodomes (animals);
+@free(ID227B);
+TV + TPl + 2*ReA + 2*PrM -PrE + 2*Po + ID227B -3*D = 14;
+
+!GHG import from venus;
+@free(ID228);
+TV + TSp + TEv + GV + 3*PrH + ID228 -3*D = 23;
+
+!Giant Solar Shade;
+@free(ID229);
+TV + TSp + 3*GV + ID229 -3*D = 27;
+
+!Gyropolis;
+@free(ID230);
+TC + TB -2*PrE + PlC + GYR + ID230 -3*D = 20;
+
+!Hydrogen to venus;
+@free(ID231);
+TSp + TEv + GV + HTV + ID231 -3*D = 11;
+
+!IO Sulphur Research (1 card);
+@free(ID232A);
+TSc + TJ + CD + 2*Po + ID232A -3*D = 17;
+
+!IO Sulphur Research (3 card);
+@free(ID232B);
+TSc + TJ + 3*CD + 2*Po + ID232B -3*D = 17;
+
+!Ishtar mining;
+@free(ID233);
+TV + PrT -RVN8 + ID233 -3*D = 5;
+
+!jet stream microscrappers;
+@free(ID234);
+TV + JSM + SFTR2 + ID234 -3*D = 12;
+
+!local shading;
+@free(ID235);
+TV + SF + LCS + ID235 -3*D = 4;
+
+!Luna Metropolis;
+@free(ID236);
+TSp + TEa + TC + LMS + 2*Po + PlCZ + ID236 -3*D = 21;
+
+!luxury foods;
+@free(ID237);
+2*Po -RTV -RTEa -RTJ + ID237 -3*D = 8;
+
+!maxwell base;
+@free(ID238);
+TV + TC -PrE + PlCZ + 3*Po + MXW -RVN12 + ID238 -3*D = 18;
+
+!mining quota;
+@free(ID239);
+TB + 2*PrS -RTV -RTEa -RTJ + ID239 -3*D = 8;
+
+!netralizer factory;
+@free(ID240);
+TV + GV -RVN10 + ID240 -3*D = 7;
+
+!omnicourt;
+@free(ID241);
+TB + 2*GTR -RTV -RTEa -RTJ + ID241 -3*D = 11;
+
+!orbital reflectors;
+@free(ID242);
+TV + TSp + 2*GV + 2*PrH + ID242 -3*D = 26;
+
+!rotator Impacts;
+@free(ID243);
+TSp + RTI -RVX14 + ID243 -3*D = 6;
+
+!sister planet support;
+@free(ID244);
+TV + TEa + 3*PrM -RTV -RTEa + ID244 -3*D = 7;
+
+!solarnet;
+@free(ID245);
+2*CD + Po -RTV -RTEa -RTJ + ID245 -3*D = 7;
+
+!spin inducing asteroid;
+@free(ID246);
+TSp + TEv + 2*GV -RVX10 + ID246 -3*D = 16;
+
+!sponsored academies;
+@free(ID247);
+TSc + TEa + 3*CD -DC -SPA + Po + ID247 -3*D = 9;
+
+!stratopolis;
+@free(ID248);
+TV + TC + 2*PrM + PlCZ + 2*SFO + PoF033 -RTSc2 + ID248 -3*D = 22;
+
+!stratospheric birds;
+@free(ID249);
+TV + TA -ReF + SA + PoA1 + ID249 -3*D = 12;
+
+!sulphur exports;
+@free(ID250);
+TV + TSp + GV + SEX + ID250 -3*D = 21;
+
+!sulphur eating bacteria;
+@free(ID251);
+TV + TM + SM + SEB -RVN6 + ID251 -3*D = 6;
+
+!terraforming contract;
+@free(ID252);
+TEa + 4*PrM -RTR25 + ID252 -3*D = 8;
+
+!thermophiles;
+@free(ID253);
+TV + TM + SM + SMTR2 -RVN6 + ID253 -3*D = 9;
+
+!water to venus;
+@free(ID254);
+TSp + TEv + GV + ID254 -3*D = 12;
+
+!Venus governor;
+@free(ID255);
+2*TV + 2*PrM -RTV2 + ID255 -3*D = 4;
+
+!Venus Magnetizer;
+@free(ID256);
+TV + VMG -RVN10 + ID256 -3*D = 7;
+
+!venus soils;
+@free(ID257);
+TV + TPl + GV + PrP + 2*ReMi + ID257 -3*D = 20;
+
+!Venus Waystation;
+@free(ID258);
+TV + TSp + DV2 + Po + ID258 -3*D = 9;
+
+!Venusian animals;
+@free(ID259);
+TV + TSc + TA + PoA1 + VNA -RVN18 + ID259 -3*D = 15;
+
+!venusian insects;
+@free(ID260);
+TV + TM + SM + PoM05 -RVN12 + ID260 -3*D = 5;
+
+!Venusian plants (microbe);
+@free(ID261A);
+TV + TPl + GV + ReMi + Po -RVN16 + ID261A -3*D = 13;
+
+!Venusian plants (animal);
+@free(ID261B);
+TV + TPl + GV + ReA + Po -RVN16 + ID261B -3*D = 13;
+
+!
+! Prelude starts here
+!
+
+!house printing;
+@free(IDP36);
+TB + PrS + Po + IDP36 -3*D = 10;
+
+!lava tube settlement;
+@free(IDP37);
+TC + TB + 2*PrM + PlC -PrE + IDP37 -3*D = 15;
+
+!martian survey;
+@free(IDP38);
+TSc + TEv + 2*CD + Po -ROxX2 + IDP38 -3*D = 9;
+
+!Psychrophiles;
+@free(IDP39);
+TM + SM + PSY -RTeXn20 + IDP39 -3*D = 2;
+
+!research coordination;
+@free(IDP40);
+TW + IDP40 -3*D = 7;
+
+!SF Memorial;
+@free(IDP41);
+TB + CD + Po + IDP41 -3*D = 7;
+
+!Space hotels;
+@free(IDP42);
+TEa + TSp + 4*PrM -RTEa2 + IDP42 -3*D = 12;
+
+!
+! Colonies begins here
+!
+
+!Airliners;
+@free(IDC01);
+2*PrM + 2*ReF + Po -RF3 + IDC01 -3*D = 11;
+
+!Air Raid;
+@free(IDC02);
+TEv -ReF + 5*ReM + 5*ReMA + IDC02 -3*D = 0;
+
+!Atmo Collectors;
+@free(IDC03);
+2*ReF + SF + ATM + IDC03 -3*D = 15;
+
+!Community Services;
+@free(IDC04);
+Po + CMS + IDC04 -3*D = 13;
+
+!Conscription;
+@free(IDC05);
+TEa + TEv + 16*ReM -Po -RTEa2 + IDC05 -3*D = 5;
+
+!Corona Extractor;
+@free(IDC06);
+TPo + TSp + 4*PrE -RTSc4 + IDC06 -3*D = 10;
+
+!Cryo Sleep;
+@free(IDC07);
+TSc + Po + TCR + IDC07 -3*D = 10;
+
+!Earth Elevator;
+@free(IDC08);
+TEa + TSp + 3*PrT + 4*Po + IDC08 -3*D = 43;
+
+!Ecology Research;
+@free(IDC09);
+TSc + TA + TM + TPl + ReA + 2*ReM + Po + ECR + IDC09 -3*D = 21;
+
+!Floater Leasing;
+@free(IDC10);
+FLL + IDC10 -3*D = 3;
+
+!Floater Prototypes;
+@free(IDC11);
+TSc + TEv + 2*ReF + IDC11 -3*D = 2;
+
+!Floater Technology;
+@free(IDC12);
+TSc + SFO + IDC12 -3*D = 7;
+
+!Galilean Waystation;
+@free(IDC13);
+TSp + Po + GLW + IDC13 -3*D = 15;
+
+!Heavy Taxation;
+@free(IDC14);
+TEa + 4*ReM + 2*PrM -Po -RTEa2 + IDC14 -3*D = 3;
+
+!Ice Moon Colony;
+@free(IDC15);
+TSp + PlCo + PlOc + IDC15 -3*D = 23;
+
+!Impactor Swarm;
+@free(IDC16);
+TSp + TEv + 12*ReH + 2*RePA -RTJ2 + IDC16 -3*D = 11;
+
+!Interplanetary Colony ship;
+@free(IDC17);
+TEa + TSp + TEv + PlCo + IDC17 -3*D = 12;
+
+!Jovian Lanterns;
+@free(IDC18);
+TJ + GTR + 2*ReF + JVL + PoF05 -RTJ + IDC18 -3*D = 20;
+
+!Jupitor Floating Station;
+@free(IDC19);
+TJ + SF + JFS + Po -RTSc3 + IDC19 -3*D = 9;
+
+!Luna Governor;
+@free(IDC20);
+2*TEa + 2*PrM -RTEa3 + IDC20 -3*D = 4;
+
+!Lunar Exports (plants);
+@free(IDC21A);
+TSp + TEa + 2*PrP + IDC21A -3*D = 19;
+
+!Lunar Exports (money);
+@free(IDC21B);
+TSp + TEa + 5*PrM + IDC21B -3*D = 19;
+
+!Lunar Mining;
+@free(IDC22);
+TEa + LMN + IDC22 -3*D = 11;
+
+!Market Manipulation;
+@free(IDC23);
+TEa + TEv + MMN + IDC23 -3*D = 1;
+
+!Martian Zoo;
+@free(IDC24);
+TA + TB + ZOO + Po -RC2 + IDC24 -3*D = 12;
+
+!Mining Colony;
+@free(IDC25);
+TSp + PrT + PlCo + IDC25 -3*D = 20;
+
+!minority Refuge;
+@free(IDC26);
+TSp -2*PrM + PlCo -3*D = 5;
+
+!Molecular Printing;
+@free(IDC27);
+TSc + Po + MLP + IDC27 -3*D = 11;
+
+!Nitrogen from titan;
+@free(IDC28);
+TJ + TSp + 2*GTR + 2*ReF + Po + IDC28 -3*D = 25;
+
+!Pioneer settlement;
+@free(IDC29);
+TSp + PlCo + 2*Po -2*PrM -RCoX1 + IDC29 -3*D = 13;
+
+!Productive Outpost;
+@free(IDC30);
+PDO + IDC30 -3*D = 0;
+
+!Quantum Communications;
+@free(IDC31);
+Po + QCM -RTSc4 + IDC31 -3*D = 8;
+
+!Red Spot Observatory;
+@free(IDC32);
+TSc + TJ + SF + 2*CD + 2*Po + RSO -RTSc3 + IDC32 -3*D = 17;
+
+!Refugee camps;
+@free(IDC33);
+TEa + RFC + IDC33 -3*D = 10;
+
+!Research Colony;
+@free(IDC34);
+TSc + TSp + PlCoO + 2*CD + IDC34 -3*D = 20;
+
+!Rim Freighters;
+@free(IDC35);
+TSp + TCR + IDC35 -3*D = 4;
+
+!Sky Docks;
+@free(IDC36);
+TEa + TSp + DA1 + GTF + 2*Po + -RTEa2 + IDC36 -3*D = 18;
+
+!Solar Probe;
+@free(IDC37);
+TSc + TSp + TEv + SLP + Po + IDC37 -3*D = 9;
+
+!Solar Reflectors;
+@free(IDC38);
+TSp + 5*PrH + IDC38 -3*D = 23;
+
+!Space Port;
+@free(IDC39);
+TC + TB + 4*PrM -PrE + PlC + GTF + -RCoN1 + IDC39 -3*D = 22;
+
+!Space Port Colony;
+@free(IDC40);
+TSp + PlCoO + GTF + SPC -RCoN1 + IDC40 -3*D = 27;
+
+!Spinoff Department;
+@free(IDC41);
+TB + 2*PrM + SOF + IDC41 -3*D = 10;
+
+!Sub zero salt fish;
+@free(IDC42);
+TA + SA + PrPA + PoA05 -RTeNn6 + IDC42 -3*D = 5;
+
+!Titan air scrapping;
+@free(IDC43);
+TJ + 2*Po + TTS + SFTr2 + IDC43 -3*D = 21;
+
+!Titan floating launch pad;
+@free(IDC44);
+TJ + SF + 2*ReF + Po + TLP + IDC44 -3*D = 18;
+
+!Titan Shuttles;
+@free(IDC45);
+TJ + TSp + 2*SF + Po + TSH + IDC45 -3*D = 23;
+
+!Trade Envoys;
+@free(IDC46);
+TRB + IDC46 -3*D = 6;
+
+!Trading Colony;
+@free(IDC47);
+TSp + TRB + PlCo + IDC47 -3*D = 18;
+
+!Urban decomposers;
+@free(IDC48);
+TM + PrP + 2*ReM -RCoN1 -RC + IDC48 -3*D = 6;
+
+!Warp Drive;
+@free(IDC49);
+TSc + DSp4 + 2*Po -RTSc5 + IDC49 -3*D = 14;

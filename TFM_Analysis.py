@@ -23,6 +23,7 @@ with open("Test_log_1.txt") as f:
 vars = []
 means = {}
 stds = {}
+
 for line in content:
     content2 = re.sub("\s+",",",line.strip()).split(',')
     var = content2[0][:-1]

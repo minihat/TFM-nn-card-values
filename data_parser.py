@@ -16,7 +16,7 @@ def get_vars():
         content2.append(re.sub("\s+",",",line.strip()).split(',')[0])
 
     var_ids = content2[334:]
-    var_ids.append('D')
+    #var_ids.append('D')
     return sorted(var_ids)
 
 def parse_eqs():
@@ -169,7 +169,7 @@ def main():
             compute_dict[var].append(single_dict[var])
 
     # Write a file with the result of this run
-    with open("Test_log.txt","w") as f:
+    with open("Test_log_final.txt","w") as f:
         for var in vars:
             mean = np.mean(compute_dict[var])
             std = np.std(compute_dict[var])
